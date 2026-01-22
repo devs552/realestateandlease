@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-01-13T17:00:00.053Z",
+  "totalCount": 2,
+  "records": [
+    {
+      "externalId": 5001,
+      "address": "6005 Main Street",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75069",
+      "price": 746263,
+      "beds": 2,
+      "baths": 1,
+      "sqft": 3505,
+      "updatedAt": "2026-01-13T17:00:00.026Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "9737 Main Street",
+      "city": "Irving",
+      "state": "TX",
+      "zip": "75014",
+      "price": 507132,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 4171,
+      "updatedAt": "2026-01-13T17:00:00.026Z"
+    }
+  ],
+  "sample": [
+    {
+      "externalId": 5001,
+      "address": "6005 Main Street",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75069",
+      "price": 746263,
+      "beds": 2,
+      "baths": 1,
+      "sqft": 3505,
+      "updatedAt": "2026-01-13T17:00:00.026Z"
+    }
+  ]
+}

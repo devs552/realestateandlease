@@ -1,0 +1,185 @@
+[
+  {
+    "externalId": "REALTOR_5000",
+    "address": "9855 Oak Street",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.298Z"
+  },
+  {
+    "externalId": "REALTOR_5001",
+    "address": "5234 Maple Avenue",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.319Z"
+  },
+  {
+    "externalId": "REALTOR_5002",
+    "address": "1876 Elm Drive",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.342Z"
+  },
+  {
+    "externalId": "REALTOR_5003",
+    "address": "7432 Cedar Lane",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.363Z"
+  },
+  {
+    "externalId": "REALTOR_5004",
+    "address": "3021 Pine Road",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.388Z"
+  },
+  {
+    "externalId": "REALTOR_5005",
+    "address": "2145 Birch Court",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.413Z"
+  },
+  {
+    "externalId": "REALTOR_5006",
+    "address": "8765 Walnut Street",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 840108,
+        "finalArv": 840108,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 672086,
+        "closingCosts": 13442,
+        "holdingCosts": 20163,
+        "rehabCost": 84035,
+        "totalCosts": 789726
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.440Z"
+  },
+  {
+    "externalId": "REALTOR_5007",
+    "address": "4021 Main Road",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1042841,
+        "finalArv": 1011556,
+        "adjustmentSteps": [
+          {
+            "factor": "Multifamily properties nearby - may affect desirability",
+            "percentApplied": "3.0%",
+            "arvBefore": 1042841,
+            "arvAfter": 1011556
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 834273,
+        "closingCosts": 16685,
+        "holdingCosts": 25028,
+        "rehabCost": 83930,
+        "totalCosts": 959916
+      },
+      "negativeFactors": [
+        "Multifamily properties nearby - may affect desirability"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.476Z"
+  },
+  {
+    "externalId": "REALTOR_5008",
+    "address": "1145 Birch lane",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 903731,
+        "finalArv": 885656,
+        "adjustmentSteps": [
+          {
+            "factor": "No garage - limits parking/storage options",
+            "percentApplied": "2.0%",
+            "arvBefore": 903731,
+            "arvAfter": 885656
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 722985,
+        "closingCosts": 14460,
+        "holdingCosts": 21690,
+        "rehabCost": 83685,
+        "totalCosts": 842820
+      },
+      "negativeFactors": [
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.510Z"
+  },
+  {
+    "externalId": "REALTOR_5009",
+    "address": "465 eve Street",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1055455,
+        "finalArv": 1034346,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 1055455,
+            "arvAfter": 1034346
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 844364,
+        "closingCosts": 16887,
+        "holdingCosts": 25331,
+        "rehabCost": 83965,
+        "totalCosts": 970547
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-22T14:47:01.543Z"
+  }
+]

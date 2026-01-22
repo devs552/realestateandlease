@@ -1,0 +1,1655 @@
+{
+  "evaluatedAt": "2026-01-13T17:00:00.055Z",
+  "totalCount": 59,
+  "newResults": 2,
+  "results": [
+    {
+      "externalId": 5010,
+      "address": "4180 Oak Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 461334,
+          "adjustedArv": 447494
+        },
+        "costs": {
+          "purchasePrice": 369067,
+          "closingCosts": 7381,
+          "holdingCosts": 22144,
+          "rehabCosts": 80600,
+          "totalCosts": 479192
+        },
+        "profit": {
+          "netProfit": -31698,
+          "profitMargin": -7.08344692889737
+        },
+        "failureReasons": [
+          "Profit margin -7.08% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:24:00.110Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "1012 Maple Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 322703,
+          "adjustedArv": 313022
+        },
+        "costs": {
+          "purchasePrice": 258162,
+          "closingCosts": 5163,
+          "holdingCosts": 15490,
+          "rehabCosts": 70875,
+          "totalCosts": 349690
+        },
+        "profit": {
+          "netProfit": -36668,
+          "profitMargin": -11.714192612659813
+        },
+        "failureReasons": [
+          "Profit margin -11.71% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.037Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "7091 Central Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 587156,
+          "adjustedArv": 569541
+        },
+        "costs": {
+          "purchasePrice": 469725,
+          "closingCosts": 9395,
+          "holdingCosts": 28184,
+          "rehabCosts": 64000,
+          "totalCosts": 571304
+        },
+        "profit": {
+          "netProfit": -1763,
+          "profitMargin": -0.3095475128217284
+        },
+        "failureReasons": [
+          "Profit margin -0.31% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.043Z"
+    },
+    {
+      "externalId": 5003,
+      "address": "5913 Forest Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 371850,
+          "adjustedArv": 360695
+        },
+        "costs": {
+          "purchasePrice": 297480,
+          "closingCosts": 5950,
+          "holdingCosts": 17849,
+          "rehabCosts": 30400,
+          "totalCosts": 351679
+        },
+        "profit": {
+          "netProfit": 9016,
+          "profitMargin": 2.4996187914997434
+        },
+        "failureReasons": [
+          "Profit margin 2.50% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.049Z"
+    },
+    {
+      "externalId": 5004,
+      "address": "4578 Forest Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 736639,
+          "adjustedArv": 714540
+        },
+        "costs": {
+          "purchasePrice": 589311,
+          "closingCosts": 11786,
+          "holdingCosts": 35359,
+          "rehabCosts": 57650,
+          "totalCosts": 694106
+        },
+        "profit": {
+          "netProfit": 20434,
+          "profitMargin": 2.8597419318722532
+        },
+        "failureReasons": [
+          "Profit margin 2.86% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.055Z"
+    },
+    {
+      "externalId": 5005,
+      "address": "4308 Central Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 695706,
+          "adjustedArv": 674835
+        },
+        "costs": {
+          "purchasePrice": 556565,
+          "closingCosts": 11131,
+          "holdingCosts": 33394,
+          "rehabCosts": 70575,
+          "totalCosts": 671665
+        },
+        "profit": {
+          "netProfit": 3170,
+          "profitMargin": 0.4697444560522202
+        },
+        "failureReasons": [
+          "Profit margin 0.47% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.062Z"
+    },
+    {
+      "externalId": 5006,
+      "address": "7369 Main Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 817630,
+          "adjustedArv": 793101
+        },
+        "costs": {
+          "purchasePrice": 654104,
+          "closingCosts": 13082,
+          "holdingCosts": 39246,
+          "rehabCosts": 46275,
+          "totalCosts": 752707
+        },
+        "profit": {
+          "netProfit": 40394,
+          "profitMargin": 5.093172244140406
+        },
+        "failureReasons": [
+          "Profit margin 5.09% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.066Z"
+    },
+    {
+      "externalId": 5007,
+      "address": "1232 Park Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 760120,
+          "adjustedArv": 737316
+        },
+        "costs": {
+          "purchasePrice": 608096,
+          "closingCosts": 12162,
+          "holdingCosts": 36486,
+          "rehabCosts": 56250,
+          "totalCosts": 712994
+        },
+        "profit": {
+          "netProfit": 24322,
+          "profitMargin": 3.2987213080958506
+        },
+        "failureReasons": [
+          "Profit margin 3.30% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.074Z"
+    },
+    {
+      "externalId": 5008,
+      "address": "8749 Main Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 370519,
+          "adjustedArv": 359403
+        },
+        "costs": {
+          "purchasePrice": 296415,
+          "closingCosts": 5928,
+          "holdingCosts": 17785,
+          "rehabCosts": 101975,
+          "totalCosts": 422103
+        },
+        "profit": {
+          "netProfit": -62700,
+          "profitMargin": -17.445597282159582
+        },
+        "failureReasons": [
+          "Profit margin -17.45% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.079Z"
+    },
+    {
+      "externalId": 5009,
+      "address": "7494 Cedar Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 496569,
+          "adjustedArv": 481672
+        },
+        "costs": {
+          "purchasePrice": 397255,
+          "closingCosts": 7945,
+          "holdingCosts": 23835,
+          "rehabCosts": 56375,
+          "totalCosts": 485410
+        },
+        "profit": {
+          "netProfit": -3738,
+          "profitMargin": -0.7760467704163829
+        },
+        "failureReasons": [
+          "Profit margin -0.78% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.085Z"
+    },
+    {
+      "externalId": 5010,
+      "address": "5494 Oak Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 848816,
+          "adjustedArv": 823352
+        },
+        "costs": {
+          "purchasePrice": 679053,
+          "closingCosts": 13581,
+          "holdingCosts": 40743,
+          "rehabCosts": 45775,
+          "totalCosts": 779152
+        },
+        "profit": {
+          "netProfit": 44200,
+          "profitMargin": 5.368299342201149
+        },
+        "failureReasons": [
+          "Profit margin 5.37% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:32:00.090Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "9197 Central Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 327155,
+          "adjustedArv": 317340
+        },
+        "costs": {
+          "purchasePrice": 261724,
+          "closingCosts": 5234,
+          "holdingCosts": 15703,
+          "rehabCosts": 53425,
+          "totalCosts": 336086
+        },
+        "profit": {
+          "netProfit": -18746,
+          "profitMargin": -5.907228839730258
+        },
+        "failureReasons": [
+          "Profit margin -5.91% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.026Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "7495 Park Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 935436,
+          "adjustedArv": 907373
+        },
+        "costs": {
+          "purchasePrice": 748349,
+          "closingCosts": 14967,
+          "holdingCosts": 44901,
+          "rehabCosts": 95625,
+          "totalCosts": 903842
+        },
+        "profit": {
+          "netProfit": 3531,
+          "profitMargin": 0.38914536800191324
+        },
+        "failureReasons": [
+          "Profit margin 0.39% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.035Z"
+    },
+    {
+      "externalId": 5003,
+      "address": "8314 Main Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 551483,
+          "adjustedArv": 534939
+        },
+        "costs": {
+          "purchasePrice": 441186,
+          "closingCosts": 8824,
+          "holdingCosts": 26471,
+          "rehabCosts": 67050,
+          "totalCosts": 543531
+        },
+        "profit": {
+          "netProfit": -8592,
+          "profitMargin": -1.6061644411792746
+        },
+        "failureReasons": [
+          "Profit margin -1.61% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.042Z"
+    },
+    {
+      "externalId": 5004,
+      "address": "5407 Cedar Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 725296,
+          "adjustedArv": 703537
+        },
+        "costs": {
+          "purchasePrice": 580237,
+          "closingCosts": 11605,
+          "holdingCosts": 34814,
+          "rehabCosts": 95575,
+          "totalCosts": 722231
+        },
+        "profit": {
+          "netProfit": -18694,
+          "profitMargin": -2.657145253199192
+        },
+        "failureReasons": [
+          "Profit margin -2.66% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.050Z"
+    },
+    {
+      "externalId": 5005,
+      "address": "7546 Central Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 448416,
+          "adjustedArv": 434964
+        },
+        "costs": {
+          "purchasePrice": 358733,
+          "closingCosts": 7175,
+          "holdingCosts": 21524,
+          "rehabCosts": 103000,
+          "totalCosts": 490432
+        },
+        "profit": {
+          "netProfit": -55468,
+          "profitMargin": -12.752319732207724
+        },
+        "failureReasons": [
+          "Profit margin -12.75% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.056Z"
+    },
+    {
+      "externalId": 5006,
+      "address": "2442 Park Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 540086,
+          "adjustedArv": 523883
+        },
+        "costs": {
+          "purchasePrice": 432069,
+          "closingCosts": 8641,
+          "holdingCosts": 25924,
+          "rehabCosts": 52375,
+          "totalCosts": 519009
+        },
+        "profit": {
+          "netProfit": 4874,
+          "profitMargin": 0.9303604048995672
+        },
+        "failureReasons": [
+          "Profit margin 0.93% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.063Z"
+    },
+    {
+      "externalId": 5007,
+      "address": "9391 Pine Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 863516,
+          "adjustedArv": 837611
+        },
+        "costs": {
+          "purchasePrice": 690813,
+          "closingCosts": 13816,
+          "holdingCosts": 41449,
+          "rehabCosts": 81375,
+          "totalCosts": 827453
+        },
+        "profit": {
+          "netProfit": 10158,
+          "profitMargin": 1.2127347897771161
+        },
+        "failureReasons": [
+          "Profit margin 1.21% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.069Z"
+    },
+    {
+      "externalId": 5008,
+      "address": "5355 Elm Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 409831,
+          "adjustedArv": 397536
+        },
+        "costs": {
+          "purchasePrice": 327865,
+          "closingCosts": 6557,
+          "holdingCosts": 19672,
+          "rehabCosts": 34050,
+          "totalCosts": 388144
+        },
+        "profit": {
+          "netProfit": 9392,
+          "profitMargin": 2.3625533285035822
+        },
+        "failureReasons": [
+          "Profit margin 2.36% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.074Z"
+    },
+    {
+      "externalId": 5009,
+      "address": "4865 Pine Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 736450,
+          "adjustedArv": 714357
+        },
+        "costs": {
+          "purchasePrice": 589160,
+          "closingCosts": 11783,
+          "holdingCosts": 35350,
+          "rehabCosts": 73825,
+          "totalCosts": 710118
+        },
+        "profit": {
+          "netProfit": 4239,
+          "profitMargin": 0.5934007786022955
+        },
+        "failureReasons": [
+          "Profit margin 0.59% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.081Z"
+    },
+    {
+      "externalId": 5010,
+      "address": "1526 Main Street",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 705611,
+          "adjustedArv": 684443
+        },
+        "costs": {
+          "purchasePrice": 564489,
+          "closingCosts": 11290,
+          "holdingCosts": 33869,
+          "rehabCosts": 44300,
+          "totalCosts": 653948
+        },
+        "profit": {
+          "netProfit": 30495,
+          "profitMargin": 4.455447714418878
+        },
+        "failureReasons": [
+          "Profit margin 4.46% below 10% threshold"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:33:00.087Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "2517 Pine Street",
+      "city": "Irving",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 659062,
+          "adjustedArv": 639290
+        },
+        "costs": {
+          "purchasePrice": 558527,
+          "closingCosts": 16756,
+          "holdingCosts": 16756,
+          "rehabCosts": 39225,
+          "sellingCosts": 41554,
+          "totalCosts": 672818
+        },
+        "profit": {
+          "netProfit": -33528,
+          "profitMargin": -5.244568192838931
+        },
+        "failureReasons": [
+          "Profit margin -5.24% below 10% threshold",
+          "Net profit $-33,528 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:48:00.045Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "6196 Elm Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 681867,
+          "adjustedArv": 661411
+        },
+        "costs": {
+          "purchasePrice": 577853,
+          "closingCosts": 17336,
+          "holdingCosts": 17336,
+          "rehabCosts": 99650,
+          "sellingCosts": 42992,
+          "totalCosts": 755167
+        },
+        "profit": {
+          "netProfit": -93756,
+          "profitMargin": -14.175149793396239
+        },
+        "failureReasons": [
+          "Profit margin -14.18% below 10% threshold",
+          "Net profit $-93,756 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:48:00.054Z"
+    },
+    {
+      "externalId": 5003,
+      "address": "3030 Broadway Street",
+      "city": "McKinney",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 370106,
+          "adjustedArv": 359003
+        },
+        "costs": {
+          "purchasePrice": 313649,
+          "closingCosts": 9409,
+          "holdingCosts": 9409,
+          "rehabCosts": 41475,
+          "sellingCosts": 23335,
+          "totalCosts": 397277
+        },
+        "profit": {
+          "netProfit": -38274,
+          "profitMargin": -10.66119224630435
+        },
+        "failureReasons": [
+          "Profit margin -10.66% below 10% threshold",
+          "Net profit $-38,274 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:48:00.065Z"
+    },
+    {
+      "externalId": 5004,
+      "address": "2743 Main Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 424267,
+          "adjustedArv": 411539
+        },
+        "costs": {
+          "purchasePrice": 359548,
+          "closingCosts": 10786,
+          "holdingCosts": 10786,
+          "rehabCosts": 77625,
+          "sellingCosts": 26750,
+          "totalCosts": 485495
+        },
+        "profit": {
+          "netProfit": -73956,
+          "profitMargin": -17.970593309504082
+        },
+        "failureReasons": [
+          "Profit margin -17.97% below 10% threshold",
+          "Net profit $-73,956 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:48:00.072Z"
+    },
+    {
+      "externalId": 5005,
+      "address": "5256 Park Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 382856,
+          "adjustedArv": 371370
+        },
+        "costs": {
+          "purchasePrice": 324454,
+          "closingCosts": 9734,
+          "holdingCosts": 9734,
+          "rehabCosts": 62900,
+          "sellingCosts": 24139,
+          "totalCosts": 430961
+        },
+        "profit": {
+          "netProfit": -59591,
+          "profitMargin": -16.046261141179954
+        },
+        "failureReasons": [
+          "Profit margin -16.05% below 10% threshold",
+          "Net profit $-59,591 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:48:00.080Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "6852 Pine Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 506245,
+          "adjustedArv": 491058
+        },
+        "costs": {
+          "purchasePrice": 429021,
+          "closingCosts": 12871,
+          "holdingCosts": 12871,
+          "rehabCosts": 42475,
+          "sellingCosts": 31919,
+          "totalCosts": 529157
+        },
+        "profit": {
+          "netProfit": -38099,
+          "profitMargin": -7.758553979367
+        },
+        "failureReasons": [
+          "Profit margin -7.76% below 10% threshold",
+          "Net profit $-38,099 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:49:00.036Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "8335 Forest Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 524940,
+          "adjustedArv": 509192
+        },
+        "costs": {
+          "purchasePrice": 444864,
+          "closingCosts": 13346,
+          "holdingCosts": 13346,
+          "rehabCosts": 93100,
+          "sellingCosts": 33097,
+          "totalCosts": 597753
+        },
+        "profit": {
+          "netProfit": -88561,
+          "profitMargin": -17.392457069239107
+        },
+        "failureReasons": [
+          "Profit margin -17.39% below 10% threshold",
+          "Net profit $-88,561 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:49:00.049Z"
+    },
+    {
+      "externalId": 5003,
+      "address": "7435 Elm Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 622926,
+          "adjustedArv": 604238
+        },
+        "costs": {
+          "purchasePrice": 527903,
+          "closingCosts": 15837,
+          "holdingCosts": 15837,
+          "rehabCosts": 59300,
+          "sellingCosts": 39275,
+          "totalCosts": 658152
+        },
+        "profit": {
+          "netProfit": -53914,
+          "profitMargin": -8.922643064487835
+        },
+        "failureReasons": [
+          "Profit margin -8.92% below 10% threshold",
+          "Net profit $-53,914 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:49:00.057Z"
+    },
+    {
+      "externalId": 5004,
+      "address": "7879 Cedar Street",
+      "city": "Irving",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 708421,
+          "adjustedArv": 687168
+        },
+        "costs": {
+          "purchasePrice": 600357,
+          "closingCosts": 18011,
+          "holdingCosts": 18011,
+          "rehabCosts": 51750,
+          "sellingCosts": 44666,
+          "totalCosts": 732795
+        },
+        "profit": {
+          "netProfit": -45627,
+          "profitMargin": -6.639860994691254
+        },
+        "failureReasons": [
+          "Profit margin -6.64% below 10% threshold",
+          "Net profit $-45,627 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:49:00.065Z"
+    },
+    {
+      "externalId": 5005,
+      "address": "6633 Park Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 346108,
+          "adjustedArv": 335725
+        },
+        "costs": {
+          "purchasePrice": 293312,
+          "closingCosts": 8799,
+          "holdingCosts": 8799,
+          "rehabCosts": 91950,
+          "sellingCosts": 21822,
+          "totalCosts": 424682
+        },
+        "profit": {
+          "netProfit": -88957,
+          "profitMargin": -26.49698413880408
+        },
+        "failureReasons": [
+          "Profit margin -26.50% below 10% threshold",
+          "Net profit $-88,957 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T19:49:00.072Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "3782 Broadway Street",
+      "city": "Irving",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 634409,
+          "adjustedArv": 615377
+        },
+        "costs": {
+          "purchasePrice": 537635,
+          "closingCosts": 16129,
+          "holdingCosts": 16129,
+          "rehabCosts": 84275,
+          "sellingCosts": 40000,
+          "totalCosts": 694168
+        },
+        "profit": {
+          "netProfit": -78791,
+          "profitMargin": -12.803695945737328
+        },
+        "failureReasons": [
+          "Profit margin -12.80% below 10% threshold",
+          "Net profit $-78,791 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:25:00.031Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "2041 Maple Street",
+      "city": "Dallas",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 686832,
+          "adjustedArv": 666227
+        },
+        "costs": {
+          "purchasePrice": 582061,
+          "closingCosts": 17462,
+          "holdingCosts": 17462,
+          "rehabCosts": 33925,
+          "sellingCosts": 43305,
+          "totalCosts": 694215
+        },
+        "profit": {
+          "netProfit": -27988,
+          "profitMargin": -4.200970540071177
+        },
+        "failureReasons": [
+          "Profit margin -4.20% below 10% threshold",
+          "Net profit $-27,988 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:25:00.042Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "2376 Elm Street",
+      "city": "Plano",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 517085,
+          "adjustedArv": 501572
+        },
+        "costs": {
+          "purchasePrice": 438208,
+          "closingCosts": 13146,
+          "holdingCosts": 13146,
+          "rehabCosts": 93450,
+          "sellingCosts": 32602,
+          "totalCosts": 590552
+        },
+        "profit": {
+          "netProfit": -88980,
+          "profitMargin": -17.74022473343807
+        },
+        "failureReasons": [
+          "Profit margin -17.74% below 10% threshold",
+          "Net profit $-88,980 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:26:00.021Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "4561 Broadway Street",
+      "city": "Plano",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 840883,
+          "adjustedArv": 815657
+        },
+        "costs": {
+          "purchasePrice": 712613,
+          "closingCosts": 21378,
+          "holdingCosts": 21378,
+          "rehabCosts": 56950,
+          "sellingCosts": 53018,
+          "totalCosts": 865337
+        },
+        "profit": {
+          "netProfit": -49680,
+          "profitMargin": -6.090795518214151
+        },
+        "failureReasons": [
+          "Profit margin -6.09% below 10% threshold",
+          "Net profit $-49,680 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:26:00.029Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "2286 Central Street",
+      "city": "McKinney",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 415741,
+          "adjustedArv": 403269
+        },
+        "costs": {
+          "purchasePrice": 352323,
+          "closingCosts": 10570,
+          "holdingCosts": 10570,
+          "rehabCosts": 40450,
+          "sellingCosts": 26212,
+          "totalCosts": 440125
+        },
+        "profit": {
+          "netProfit": -36856,
+          "profitMargin": -9.139308997220217
+        },
+        "failureReasons": [
+          "Profit margin -9.14% below 10% threshold",
+          "Net profit $-36,856 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:27:00.035Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "4415 Oak Street",
+      "city": "McKinney",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 508015,
+          "adjustedArv": 492775
+        },
+        "costs": {
+          "purchasePrice": 430521,
+          "closingCosts": 12916,
+          "holdingCosts": 12916,
+          "rehabCosts": 95325,
+          "sellingCosts": 32030,
+          "totalCosts": 583708
+        },
+        "profit": {
+          "netProfit": -90933,
+          "profitMargin": -18.453249454619247
+        },
+        "failureReasons": [
+          "Profit margin -18.45% below 10% threshold",
+          "Net profit $-90,933 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:27:00.045Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "2017 Elm Street",
+      "city": "Garland",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 604987,
+          "adjustedArv": 586837
+        },
+        "costs": {
+          "purchasePrice": 512701,
+          "closingCosts": 15381,
+          "holdingCosts": 15381,
+          "rehabCosts": 100225,
+          "sellingCosts": 38144,
+          "totalCosts": 681832
+        },
+        "profit": {
+          "netProfit": -94995,
+          "profitMargin": -16.187629614356286
+        },
+        "failureReasons": [
+          "Profit margin -16.19% below 10% threshold",
+          "Net profit $-94,995 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:28:00.033Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "1281 Cedar Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 467023,
+          "adjustedArv": 453012
+        },
+        "costs": {
+          "purchasePrice": 395782,
+          "closingCosts": 11873,
+          "holdingCosts": 11873,
+          "rehabCosts": 101350,
+          "sellingCosts": 29446,
+          "totalCosts": 550324
+        },
+        "profit": {
+          "netProfit": -97312,
+          "profitMargin": -21.48110866820305
+        },
+        "failureReasons": [
+          "Profit margin -21.48% below 10% threshold",
+          "Net profit $-97,312 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:28:00.037Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "4221 Forest Street",
+      "city": "Plano",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 323694,
+          "adjustedArv": 313983
+        },
+        "costs": {
+          "purchasePrice": 274317,
+          "closingCosts": 8230,
+          "holdingCosts": 8230,
+          "rehabCosts": 101850,
+          "sellingCosts": 20409,
+          "totalCosts": 413036
+        },
+        "profit": {
+          "netProfit": -99053,
+          "profitMargin": -31.54724937337372
+        },
+        "failureReasons": [
+          "Profit margin -31.55% below 10% threshold",
+          "Net profit $-99,053 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:29:00.030Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "6680 Central Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 743549,
+          "adjustedArv": 721243
+        },
+        "costs": {
+          "purchasePrice": 630126,
+          "closingCosts": 18904,
+          "holdingCosts": 18904,
+          "rehabCosts": 67825,
+          "sellingCosts": 46881,
+          "totalCosts": 782640
+        },
+        "profit": {
+          "netProfit": -61397,
+          "profitMargin": -8.512664940942233
+        },
+        "failureReasons": [
+          "Profit margin -8.51% below 10% threshold",
+          "Net profit $-61,397 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:29:00.038Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "8404 Pine Street",
+      "city": "Plano",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 596069,
+          "adjustedArv": 578187
+        },
+        "costs": {
+          "purchasePrice": 505143,
+          "closingCosts": 15154,
+          "holdingCosts": 15154,
+          "rehabCosts": 61675,
+          "sellingCosts": 37582,
+          "totalCosts": 634708
+        },
+        "profit": {
+          "netProfit": -56521,
+          "profitMargin": -9.775557042963609
+        },
+        "failureReasons": [
+          "Profit margin -9.78% below 10% threshold",
+          "Net profit $-56,521 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:30:00.036Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "6316 Main Street",
+      "city": "Irving",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 646772,
+          "adjustedArv": 627369
+        },
+        "costs": {
+          "purchasePrice": 548112,
+          "closingCosts": 16443,
+          "holdingCosts": 16443,
+          "rehabCosts": 62800,
+          "sellingCosts": 40779,
+          "totalCosts": 684577
+        },
+        "profit": {
+          "netProfit": -57208,
+          "profitMargin": -9.118716417291898
+        },
+        "failureReasons": [
+          "Profit margin -9.12% below 10% threshold",
+          "Net profit $-57,208 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:30:00.040Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "1643 Park Street",
+      "city": "Garland",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 474182,
+          "adjustedArv": 459957
+        },
+        "costs": {
+          "purchasePrice": 401849,
+          "closingCosts": 12055,
+          "holdingCosts": 12055,
+          "rehabCosts": 73650,
+          "sellingCosts": 29897,
+          "totalCosts": 529506
+        },
+        "profit": {
+          "netProfit": -69549,
+          "profitMargin": -15.120761288555235
+        },
+        "failureReasons": [
+          "Profit margin -15.12% below 10% threshold",
+          "Net profit $-69,549 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:31:00.015Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "7782 Elm Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 502712,
+          "adjustedArv": 487631
+        },
+        "costs": {
+          "purchasePrice": 426027,
+          "closingCosts": 12781,
+          "holdingCosts": 12781,
+          "rehabCosts": 89550,
+          "sellingCosts": 31696,
+          "totalCosts": 572835
+        },
+        "profit": {
+          "netProfit": -85204,
+          "profitMargin": -17.473048268055148
+        },
+        "failureReasons": [
+          "Profit margin -17.47% below 10% threshold",
+          "Net profit $-85,204 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:31:00.024Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "9306 Park Street",
+      "city": "Dallas",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 394499,
+          "adjustedArv": 382664
+        },
+        "costs": {
+          "purchasePrice": 334321,
+          "closingCosts": 10030,
+          "holdingCosts": 10030,
+          "rehabCosts": 98125,
+          "sellingCosts": 24873,
+          "totalCosts": 477379
+        },
+        "profit": {
+          "netProfit": -94715,
+          "profitMargin": -24.751479104384003
+        },
+        "failureReasons": [
+          "Profit margin -24.75% below 10% threshold",
+          "Net profit $-94,715 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:32:00.025Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "4730 Main Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 419874,
+          "adjustedArv": 407278
+        },
+        "costs": {
+          "purchasePrice": 355825,
+          "closingCosts": 10675,
+          "holdingCosts": 10675,
+          "rehabCosts": 98975,
+          "sellingCosts": 26473,
+          "totalCosts": 502623
+        },
+        "profit": {
+          "netProfit": -95345,
+          "profitMargin": -23.410299598799835
+        },
+        "failureReasons": [
+          "Profit margin -23.41% below 10% threshold",
+          "Net profit $-95,345 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:32:00.031Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "4848 Park Street",
+      "city": "Garland",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 691546,
+          "adjustedArv": 670800
+        },
+        "costs": {
+          "purchasePrice": 586056,
+          "closingCosts": 17582,
+          "holdingCosts": 17582,
+          "rehabCosts": 89575,
+          "sellingCosts": 43602,
+          "totalCosts": 754397
+        },
+        "profit": {
+          "netProfit": -83597,
+          "profitMargin": -12.462283840190818
+        },
+        "failureReasons": [
+          "Profit margin -12.46% below 10% threshold",
+          "Net profit $-83,597 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:33:00.034Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "6994 Main Street",
+      "city": "Garland",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 353016,
+          "adjustedArv": 342426
+        },
+        "costs": {
+          "purchasePrice": 299166,
+          "closingCosts": 8975,
+          "holdingCosts": 8975,
+          "rehabCosts": 81250,
+          "sellingCosts": 22258,
+          "totalCosts": 420624
+        },
+        "profit": {
+          "netProfit": -78198,
+          "profitMargin": -22.836466857072768
+        },
+        "failureReasons": [
+          "Profit margin -22.84% below 10% threshold",
+          "Net profit $-78,198 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-12T20:33:00.039Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "3190 Central Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 634416,
+          "adjustedArv": 615384
+        },
+        "costs": {
+          "purchasePrice": 537641,
+          "closingCosts": 16129,
+          "holdingCosts": 16129,
+          "rehabCosts": 33550,
+          "sellingCosts": 40000,
+          "totalCosts": 643449
+        },
+        "profit": {
+          "netProfit": -28065,
+          "profitMargin": -4.5605670605670605
+        },
+        "failureReasons": [
+          "Profit margin -4.56% below 10% threshold",
+          "Net profit $-28,065 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:56:00.033Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "9421 Maple Street",
+      "city": "McKinney",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 837865,
+          "adjustedArv": 812729
+        },
+        "costs": {
+          "purchasePrice": 710055,
+          "closingCosts": 21302,
+          "holdingCosts": 21302,
+          "rehabCosts": 41000,
+          "sellingCosts": 52827,
+          "totalCosts": 846486
+        },
+        "profit": {
+          "netProfit": -33757,
+          "profitMargin": -4.1535370338698385
+        },
+        "failureReasons": [
+          "Profit margin -4.15% below 10% threshold",
+          "Net profit $-33,757 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:56:00.041Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "9855 Oak Street",
+      "city": "McKinney",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 833194,
+          "adjustedArv": 808198
+        },
+        "costs": {
+          "purchasePrice": 706097,
+          "closingCosts": 21183,
+          "holdingCosts": 21183,
+          "rehabCosts": 99025,
+          "sellingCosts": 52533,
+          "totalCosts": 900021
+        },
+        "profit": {
+          "netProfit": -91823,
+          "profitMargin": -11.361448555923177
+        },
+        "failureReasons": [
+          "Profit margin -11.36% below 10% threshold",
+          "Net profit $-91,823 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:57:00.033Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "5171 Broadway Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 757338,
+          "adjustedArv": 734618
+        },
+        "costs": {
+          "purchasePrice": 641812,
+          "closingCosts": 19254,
+          "holdingCosts": 19254,
+          "rehabCosts": 64875,
+          "sellingCosts": 47750,
+          "totalCosts": 792945
+        },
+        "profit": {
+          "netProfit": -58327,
+          "profitMargin": -7.9397727798665425
+        },
+        "failureReasons": [
+          "Profit margin -7.94% below 10% threshold",
+          "Net profit $-58,327 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:57:00.040Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "5390 Cedar Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 818670,
+          "adjustedArv": 794110
+        },
+        "costs": {
+          "purchasePrice": 693788,
+          "closingCosts": 20814,
+          "holdingCosts": 20814,
+          "rehabCosts": 67375,
+          "sellingCosts": 51617,
+          "totalCosts": 854408
+        },
+        "profit": {
+          "netProfit": -60298,
+          "profitMargin": -7.593154600748007
+        },
+        "failureReasons": [
+          "Profit margin -7.59% below 10% threshold",
+          "Net profit $-60,298 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:58:00.032Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "1782 Broadway Street",
+      "city": "Arlington",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 407319,
+          "adjustedArv": 395099
+        },
+        "costs": {
+          "purchasePrice": 345186,
+          "closingCosts": 10356,
+          "holdingCosts": 10356,
+          "rehabCosts": 69800,
+          "sellingCosts": 25681,
+          "totalCosts": 461379
+        },
+        "profit": {
+          "netProfit": -66280,
+          "profitMargin": -16.775542332428074
+        },
+        "failureReasons": [
+          "Profit margin -16.78% below 10% threshold",
+          "Net profit $-66,280 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:58:00.037Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "7026 Park Street",
+      "city": "Dallas",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 504880,
+          "adjustedArv": 489734
+        },
+        "costs": {
+          "purchasePrice": 427864,
+          "closingCosts": 12836,
+          "holdingCosts": 12836,
+          "rehabCosts": 85250,
+          "sellingCosts": 31833,
+          "totalCosts": 570619
+        },
+        "profit": {
+          "netProfit": -80885,
+          "profitMargin": -16.51610874474715
+        },
+        "failureReasons": [
+          "Profit margin -16.52% below 10% threshold",
+          "Net profit $-80,885 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:59:00.036Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "9490 Forest Street",
+      "city": "Frisco",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 431925,
+          "adjustedArv": 418967
+        },
+        "costs": {
+          "purchasePrice": 366038,
+          "closingCosts": 10981,
+          "holdingCosts": 10981,
+          "rehabCosts": 74475,
+          "sellingCosts": 27233,
+          "totalCosts": 489708
+        },
+        "profit": {
+          "netProfit": -70741,
+          "profitMargin": -16.884623371291774
+        },
+        "failureReasons": [
+          "Profit margin -16.88% below 10% threshold",
+          "Net profit $-70,741 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T16:59:00.045Z"
+    },
+    {
+      "externalId": 5001,
+      "address": "6005 Main Street",
+      "city": "McKinney",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 880590,
+          "adjustedArv": 854172
+        },
+        "costs": {
+          "purchasePrice": 746263,
+          "closingCosts": 22388,
+          "holdingCosts": 22388,
+          "rehabCosts": 87625,
+          "sellingCosts": 55521,
+          "totalCosts": 934185
+        },
+        "profit": {
+          "netProfit": -80013,
+          "profitMargin": -9.367317121141877
+        },
+        "failureReasons": [
+          "Profit margin -9.37% below 10% threshold",
+          "Net profit $-80,013 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T17:00:00.034Z"
+    },
+    {
+      "externalId": 5002,
+      "address": "9737 Main Street",
+      "city": "Irving",
+      "underwriting": {
+        "status": "FAIL",
+        "arv": {
+          "baseArv": 598416,
+          "adjustedArv": 580464
+        },
+        "costs": {
+          "purchasePrice": 507132,
+          "closingCosts": 15214,
+          "holdingCosts": 15214,
+          "rehabCosts": 104275,
+          "sellingCosts": 37730,
+          "totalCosts": 679565
+        },
+        "profit": {
+          "netProfit": -99101,
+          "profitMargin": -17.072721133438076
+        },
+        "failureReasons": [
+          "Profit margin -17.07% below 10% threshold",
+          "Net profit $-99,101 below $25,000 minimum"
+        ]
+      },
+      "evaluatedAt": "2026-01-13T17:00:00.044Z"
+    }
+  ]
+}

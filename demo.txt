@@ -1,0 +1,238 @@
+// Three Test Deals for Real Estate Analysis
+// ==========================================
+
+// ============================================
+// DEAL 1: EXCELLENT - Great Profit (PASS)
+// ============================================
+
+const excellentDeal = {
+  address: "123 Market Street, Denver, CO 80204",
+  purchasePrice: 180000,
+  comps: [
+    {
+      address: "125 Market Street",
+      price: 280000,
+      dom: 30,
+      distance: 0.1
+    },
+    {
+      address: "127 Market Street",
+      price: 290000,
+      dom: 45,
+      distance: 0.4
+    },
+    {
+      address: "129 Market Street",
+      price: 285000,
+      dom: 60,
+      distance: 0.8
+    }
+  ]
+}
+
+// Expected Results for DEAL 1:
+// ============================
+// ARV Calculation:
+// ARV = (280000 + 290000 + 285000) / 3 = 855000 / 3 = $285,000
+//
+// Profit Calculation:
+// Profit Amount = $285,000 - $180,000 = $105,000
+// Profit Percent = ($105,000 / $180,000) * 100 = 58.33% ≈ 58%
+//
+// Equity: $105,000
+//
+// Status: ✅ PASS (58% > 10% minimum)
+//
+// Why it's excellent:
+// - High comps average ($285k)
+// - Low purchase price ($180k)
+// - Large profit spread ($105k)
+// - 58% return on investment
+// - Very strong deal quality
+
+console.log("DEAL 1 (Excellent):", JSON.stringify(excellentDeal, null, 2))
+
+
+// ============================================
+// DEAL 2: GOOD - Normal Profit (PASS)
+// ============================================
+
+const goodDeal = {
+  address: "456 Oak Avenue, Denver, CO 80202",
+  purchasePrice: 200000,
+  comps: [
+    {
+      address: "450 Oak Avenue",
+      price: 235000,
+      dom: 75,
+      distance: 0.3
+    },
+    {
+      address: "460 Oak Avenue",
+      price: 240000,
+      dom: 55,
+      distance: 0.7
+    },
+    {
+      address: "470 Oak Avenue",
+      price: 230000,
+      dom: 90,
+      distance: 1.0
+    }
+  ]
+}
+
+// Expected Results for DEAL 2:
+// ============================
+// ARV Calculation:
+// ARV = (235000 + 240000 + 230000) / 3 = 705000 / 3 = $235,000
+//
+// Profit Calculation:
+// Profit Amount = $235,000 - $200,000 = $35,000
+// Profit Percent = ($35,000 / $200,000) * 100 = 17.5% ≈ 18%
+//
+// Equity: $35,000
+//
+// Status: ✅ PASS (18% > 10% minimum)
+//
+// Why it's good:
+// - Moderate comps average ($235k)
+// - Fair purchase price ($200k)
+// - Decent profit spread ($35k)
+// - 18% return on investment
+// - Solid deal quality, meets minimum requirement
+
+console.log("DEAL 2 (Good):", JSON.stringify(goodDeal, null, 2))
+
+
+// ============================================
+// DEAL 3: POOR - Low Profit (FAIL)
+// ============================================
+
+const poorDeal = {
+  address: "789 Elm Street, Denver, CO 80206",
+  purchasePrice: 280000,
+  comps: [
+    {
+      address: "785 Elm Street",
+      price: 295000,
+      dom: 120,
+      distance: 0.4
+    },
+    {
+      address: "791 Elm Street",
+      price: 290000,
+      dom: 95,
+      distance: 0.95
+    },
+    {
+      address: "799 Elm Street",
+      price: 298000,
+      dom: 110,
+      distance: 0.9
+    }
+  ]
+}
+
+// Expected Results for DEAL 3:
+// ============================
+// ARV Calculation:
+// ARV = (295000 + 290000 + 298000) / 3 = 883000 / 3 = $294,333
+//
+// Profit Calculation:
+// Profit Amount = $294,333 - $280,000 = $14,333
+// Profit Percent = ($14,333 / $280,000) * 100 = 5.12% ≈ 5%
+//
+// Equity: $14,333
+//
+// Status: ❌ FAIL (5% < 10% minimum)
+//
+// Failure Reasons:
+// - Profit below minimum (5% < 10%)
+//
+// Why it's poor:
+// - High purchase price relative to comps
+// - Small profit margin ($14.3k on $280k investment)
+// - Only 5% return (below 10% requirement)
+// - High DOM values (95-120 days) - slower market
+// - Deal doesn't meet investment criteria
+
+console.log("DEAL 3 (Poor):", JSON.stringify(poorDeal, null, 2))
+
+
+// ============================================
+// SUMMARY COMPARISON TABLE
+// ============================================
+//
+// | Metric | DEAL 1 (Excellent) | DEAL 2 (Good) | DEAL 3 (Poor) |
+// |--------|-------------------|---------------|--------------|
+// | Address | 123 Market St | 456 Oak Ave | 789 Elm St |
+// | Purchase Price | $180,000 | $200,000 | $280,000 |
+// | ARV | $285,000 | $235,000 | $294,333 |
+// | Profit Amount | $105,000 | $35,000 | $14,333 |
+// | **Profit %** | **58%** ✅ | **18%** ✅ | **5%** ❌ |
+// | Equity | $105,000 | $35,000 | $14,333 |
+// | Min Required | 10% | 10% | 10% |
+// | Status | **PASS** ✅ | **PASS** ✅ | **FAIL** ❌ |
+// | Rating | Excellent | Good | Poor |
+//
+// Why DEAL 1 Passes (Excellent):
+// - 58% profit >> 10% minimum
+// - High quality comps average
+// - Strong equity position
+// - Best deal of the three
+//
+// Why DEAL 2 Passes (Good):
+// - 18% profit > 10% minimum
+// - Meets requirements
+// - Moderate quality deal
+// - Acceptable for investment
+//
+// Why DEAL 3 Fails (Poor):
+// - 5% profit < 10% minimum
+// - Doesn't meet requirements
+// - Too much paid for property
+// - Not a viable investment
+// - Should pass on this deal
+
+
+// ============================================
+// TESTING INSTRUCTIONS
+// ============================================
+//
+// To test all three deals:
+//
+// TEST 1: Excellent Deal
+// 1. Go to /deals/new
+// 2. Enter address: "123 Market Street, Denver, CO 80204"
+// 3. Enter purchase price: 180000
+// 4. Add comps:
+//    - 125 Market Street, $280000, DOM: 30, Distance: 0.1
+//    - 127 Market Street, $290000, DOM: 45, Distance: 0.4
+//    - 129 Market Street, $285000, DOM: 60, Distance: 0.8
+// 5. Expected: ✅ PASS, 58% profit, $285k ARV
+//
+// TEST 2: Good Deal
+// 1. Go to /deals/new
+// 2. Enter address: "456 Oak Avenue, Denver, CO 80202"
+// 3. Enter purchase price: 200000
+// 4. Add comps:
+//    - 450 Oak Avenue, $235000, DOM: 75, Distance: 0.3
+//    - 460 Oak Avenue, $240000, DOM: 55, Distance: 0.7
+//    - 470 Oak Avenue, $230000, DOM: 90, Distance: 1.0
+// 5. Expected: ✅ PASS, 18% profit, $235k ARV
+//
+// TEST 3: Poor Deal
+// 1. Go to /deals/new
+// 2. Enter address: "789 Elm Street, Denver, CO 80206"
+// 3. Enter purchase price: 280000
+// 4. Add comps:
+//    - 785 Elm Street, $295000, DOM: 120, Distance: 0.4
+//    - 791 Elm Street, $290000, DOM: 95, Distance: 0.6
+//    - 799 Elm Street, $298000, DOM: 110, Distance: 0.9
+// 5. Expected: ❌ FAIL, 5% profit (below 10% minimum), $294k ARV
+//
+// Expected Final Results:
+// - Deal 1: PASS ✅
+// - Deal 2: PASS ✅
+// - Deal 3: FAIL ❌

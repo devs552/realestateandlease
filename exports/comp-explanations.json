@@ -1,0 +1,97 @@
+[
+  {
+    "subjectId": "REALTOR_5000",
+    "subjectAddress": "9855 Oak Street",
+    "comparables": []
+  },
+  {
+    "subjectId": "REALTOR_5001",
+    "subjectAddress": "5234 Maple Avenue",
+    "comparables": []
+  },
+  {
+    "subjectId": "REALTOR_5002",
+    "subjectAddress": "1876 Elm Drive",
+    "comparables": [
+      {
+        "compId": "REALTOR_5001",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "REALTOR_5003",
+    "subjectAddress": "7432 Cedar Lane",
+    "comparables": []
+  },
+  {
+    "subjectId": "REALTOR_5004",
+    "subjectAddress": "3021 Pine Road",
+    "comparables": [
+      {
+        "compId": "REALTOR_5003",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "REALTOR_5005",
+    "subjectAddress": "2145 Birch Court",
+    "comparables": []
+  },
+  {
+    "subjectId": "REALTOR_5006",
+    "subjectAddress": "8765 Walnut Street",
+    "comparables": [
+      {
+        "compId": "REALTOR_5005",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "REALTOR_5007",
+    "subjectAddress": "4021 Main Road",
+    "comparables": [
+      {
+        "compId": "REALTOR_5005",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "REALTOR_5006",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "REALTOR_5008",
+    "subjectAddress": "1145 Birch lane",
+    "comparables": [
+      {
+        "compId": "REALTOR_5005",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "REALTOR_5006",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "REALTOR_5007",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "REALTOR_5009",
+    "subjectAddress": "465 eve Street",
+    "comparables": []
+  }
+]

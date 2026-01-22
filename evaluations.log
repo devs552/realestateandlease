@@ -1,0 +1,750 @@
+{
+  "address": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 312500,
+      "adjustedArv": 303125
+    },
+    "costs": {
+      "purchasePrice": 250000,
+      "closingCosts": 5000,
+      "holdingCosts": 15000,
+      "rehabCosts": 40000,
+      "totalCosts": 310000
+    },
+    "profit": {
+      "netProfit": -6875,
+      "profitMargin": -2.268041237113402
+    },
+    "failureReasons": [
+      "Profit margin -2.27% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.439Z"
+}
+{
+  "address": "qui est esse",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 325000,
+      "adjustedArv": 315250
+    },
+    "costs": {
+      "purchasePrice": 260000,
+      "closingCosts": 5200,
+      "holdingCosts": 15600,
+      "rehabCosts": 42500,
+      "totalCosts": 323300
+    },
+    "profit": {
+      "netProfit": -8050,
+      "profitMargin": -2.5535289452815224
+    },
+    "failureReasons": [
+      "Profit margin -2.55% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.441Z"
+}
+{
+  "address": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 337500,
+      "adjustedArv": 327375
+    },
+    "costs": {
+      "purchasePrice": 270000,
+      "closingCosts": 5400,
+      "holdingCosts": 16200,
+      "rehabCosts": 45000,
+      "totalCosts": 336600
+    },
+    "profit": {
+      "netProfit": -9225,
+      "profitMargin": -2.8178694158075603
+    },
+    "failureReasons": [
+      "Profit margin -2.82% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.444Z"
+}
+{
+  "address": "eum et est occaecati",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 350000,
+      "adjustedArv": 339500
+    },
+    "costs": {
+      "purchasePrice": 280000,
+      "closingCosts": 5600,
+      "holdingCosts": 16800,
+      "rehabCosts": 47500,
+      "totalCosts": 349900
+    },
+    "profit": {
+      "netProfit": -10400,
+      "profitMargin": -3.063328424153166
+    },
+    "failureReasons": [
+      "Profit margin -3.06% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.446Z"
+}
+{
+  "address": "nesciunt quas odio",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 362500,
+      "adjustedArv": 351625
+    },
+    "costs": {
+      "purchasePrice": 290000,
+      "closingCosts": 5800,
+      "holdingCosts": 17400,
+      "rehabCosts": 50000,
+      "totalCosts": 363200
+    },
+    "profit": {
+      "netProfit": -11575,
+      "profitMargin": -3.291859225026662
+    },
+    "failureReasons": [
+      "Profit margin -3.29% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.448Z"
+}
+{
+  "address": "dolorem eum magni eos aperiam quia",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 375000,
+      "adjustedArv": 363750
+    },
+    "costs": {
+      "purchasePrice": 300000,
+      "closingCosts": 6000,
+      "holdingCosts": 18000,
+      "rehabCosts": 52500,
+      "totalCosts": 376500
+    },
+    "profit": {
+      "netProfit": -12750,
+      "profitMargin": -3.5051546391752577
+    },
+    "failureReasons": [
+      "Profit margin -3.51% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.449Z"
+}
+{
+  "address": "magnam facilis autem",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 387500,
+      "adjustedArv": 375875
+    },
+    "costs": {
+      "purchasePrice": 310000,
+      "closingCosts": 6200,
+      "holdingCosts": 18600,
+      "rehabCosts": 55000,
+      "totalCosts": 389800
+    },
+    "profit": {
+      "netProfit": -13925,
+      "profitMargin": -3.7046890588626535
+    },
+    "failureReasons": [
+      "Profit margin -3.70% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.451Z"
+}
+{
+  "address": "dolorem dolore est ipsam",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 400000,
+      "adjustedArv": 388000
+    },
+    "costs": {
+      "purchasePrice": 320000,
+      "closingCosts": 6400,
+      "holdingCosts": 19200,
+      "rehabCosts": 57500,
+      "totalCosts": 403100
+    },
+    "profit": {
+      "netProfit": -15100,
+      "profitMargin": -3.8917525773195876
+    },
+    "failureReasons": [
+      "Profit margin -3.89% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.452Z"
+}
+{
+  "address": "nesciunt iure omnis dolorem tempora et accusantium",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 412500,
+      "adjustedArv": 400125
+    },
+    "costs": {
+      "purchasePrice": 330000,
+      "closingCosts": 6600,
+      "holdingCosts": 19800,
+      "rehabCosts": 60000,
+      "totalCosts": 416400
+    },
+    "profit": {
+      "netProfit": -16275,
+      "profitMargin": -4.0674789128397375
+    },
+    "failureReasons": [
+      "Profit margin -4.07% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.453Z"
+}
+{
+  "address": "optio molestias id quia eum",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 425000,
+      "adjustedArv": 412250
+    },
+    "costs": {
+      "purchasePrice": 340000,
+      "closingCosts": 6800,
+      "holdingCosts": 20400,
+      "rehabCosts": 62500,
+      "totalCosts": 429700
+    },
+    "profit": {
+      "netProfit": -17450,
+      "profitMargin": -4.232868405093996
+    },
+    "failureReasons": [
+      "Profit margin -4.23% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:38:00.454Z"
+}
+{
+  "address": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 312500,
+      "adjustedArv": 303125
+    },
+    "costs": {
+      "purchasePrice": 250000,
+      "closingCosts": 5000,
+      "holdingCosts": 15000,
+      "rehabCosts": 40000,
+      "totalCosts": 310000
+    },
+    "profit": {
+      "netProfit": -6875,
+      "profitMargin": -2.268041237113402
+    },
+    "failureReasons": [
+      "Profit margin -2.27% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.429Z"
+}
+{
+  "address": "qui est esse",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 325000,
+      "adjustedArv": 315250
+    },
+    "costs": {
+      "purchasePrice": 260000,
+      "closingCosts": 5200,
+      "holdingCosts": 15600,
+      "rehabCosts": 42500,
+      "totalCosts": 323300
+    },
+    "profit": {
+      "netProfit": -8050,
+      "profitMargin": -2.5535289452815224
+    },
+    "failureReasons": [
+      "Profit margin -2.55% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.431Z"
+}
+{
+  "address": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 337500,
+      "adjustedArv": 327375
+    },
+    "costs": {
+      "purchasePrice": 270000,
+      "closingCosts": 5400,
+      "holdingCosts": 16200,
+      "rehabCosts": 45000,
+      "totalCosts": 336600
+    },
+    "profit": {
+      "netProfit": -9225,
+      "profitMargin": -2.8178694158075603
+    },
+    "failureReasons": [
+      "Profit margin -2.82% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.432Z"
+}
+{
+  "address": "eum et est occaecati",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 350000,
+      "adjustedArv": 339500
+    },
+    "costs": {
+      "purchasePrice": 280000,
+      "closingCosts": 5600,
+      "holdingCosts": 16800,
+      "rehabCosts": 47500,
+      "totalCosts": 349900
+    },
+    "profit": {
+      "netProfit": -10400,
+      "profitMargin": -3.063328424153166
+    },
+    "failureReasons": [
+      "Profit margin -3.06% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.433Z"
+}
+{
+  "address": "nesciunt quas odio",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 362500,
+      "adjustedArv": 351625
+    },
+    "costs": {
+      "purchasePrice": 290000,
+      "closingCosts": 5800,
+      "holdingCosts": 17400,
+      "rehabCosts": 50000,
+      "totalCosts": 363200
+    },
+    "profit": {
+      "netProfit": -11575,
+      "profitMargin": -3.291859225026662
+    },
+    "failureReasons": [
+      "Profit margin -3.29% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.434Z"
+}
+{
+  "address": "dolorem eum magni eos aperiam quia",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 375000,
+      "adjustedArv": 363750
+    },
+    "costs": {
+      "purchasePrice": 300000,
+      "closingCosts": 6000,
+      "holdingCosts": 18000,
+      "rehabCosts": 52500,
+      "totalCosts": 376500
+    },
+    "profit": {
+      "netProfit": -12750,
+      "profitMargin": -3.5051546391752577
+    },
+    "failureReasons": [
+      "Profit margin -3.51% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.435Z"
+}
+{
+  "address": "magnam facilis autem",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 387500,
+      "adjustedArv": 375875
+    },
+    "costs": {
+      "purchasePrice": 310000,
+      "closingCosts": 6200,
+      "holdingCosts": 18600,
+      "rehabCosts": 55000,
+      "totalCosts": 389800
+    },
+    "profit": {
+      "netProfit": -13925,
+      "profitMargin": -3.7046890588626535
+    },
+    "failureReasons": [
+      "Profit margin -3.70% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.435Z"
+}
+{
+  "address": "dolorem dolore est ipsam",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 400000,
+      "adjustedArv": 388000
+    },
+    "costs": {
+      "purchasePrice": 320000,
+      "closingCosts": 6400,
+      "holdingCosts": 19200,
+      "rehabCosts": 57500,
+      "totalCosts": 403100
+    },
+    "profit": {
+      "netProfit": -15100,
+      "profitMargin": -3.8917525773195876
+    },
+    "failureReasons": [
+      "Profit margin -3.89% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.436Z"
+}
+{
+  "address": "nesciunt iure omnis dolorem tempora et accusantium",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 412500,
+      "adjustedArv": 400125
+    },
+    "costs": {
+      "purchasePrice": 330000,
+      "closingCosts": 6600,
+      "holdingCosts": 19800,
+      "rehabCosts": 60000,
+      "totalCosts": 416400
+    },
+    "profit": {
+      "netProfit": -16275,
+      "profitMargin": -4.0674789128397375
+    },
+    "failureReasons": [
+      "Profit margin -4.07% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.437Z"
+}
+{
+  "address": "optio molestias id quia eum",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 425000,
+      "adjustedArv": 412250
+    },
+    "costs": {
+      "purchasePrice": 340000,
+      "closingCosts": 6800,
+      "holdingCosts": 20400,
+      "rehabCosts": 62500,
+      "totalCosts": 429700
+    },
+    "profit": {
+      "netProfit": -17450,
+      "profitMargin": -4.232868405093996
+    },
+    "failureReasons": [
+      "Profit margin -4.23% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:39:00.437Z"
+}
+{
+  "address": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 312500,
+      "adjustedArv": 303125
+    },
+    "costs": {
+      "purchasePrice": 250000,
+      "closingCosts": 5000,
+      "holdingCosts": 15000,
+      "rehabCosts": 40000,
+      "totalCosts": 310000
+    },
+    "profit": {
+      "netProfit": -6875,
+      "profitMargin": -2.268041237113402
+    },
+    "failureReasons": [
+      "Profit margin -2.27% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.349Z"
+}
+{
+  "address": "qui est esse",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 325000,
+      "adjustedArv": 315250
+    },
+    "costs": {
+      "purchasePrice": 260000,
+      "closingCosts": 5200,
+      "holdingCosts": 15600,
+      "rehabCosts": 42500,
+      "totalCosts": 323300
+    },
+    "profit": {
+      "netProfit": -8050,
+      "profitMargin": -2.5535289452815224
+    },
+    "failureReasons": [
+      "Profit margin -2.55% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.350Z"
+}
+{
+  "address": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 337500,
+      "adjustedArv": 327375
+    },
+    "costs": {
+      "purchasePrice": 270000,
+      "closingCosts": 5400,
+      "holdingCosts": 16200,
+      "rehabCosts": 45000,
+      "totalCosts": 336600
+    },
+    "profit": {
+      "netProfit": -9225,
+      "profitMargin": -2.8178694158075603
+    },
+    "failureReasons": [
+      "Profit margin -2.82% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.350Z"
+}
+{
+  "address": "eum et est occaecati",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 350000,
+      "adjustedArv": 339500
+    },
+    "costs": {
+      "purchasePrice": 280000,
+      "closingCosts": 5600,
+      "holdingCosts": 16800,
+      "rehabCosts": 47500,
+      "totalCosts": 349900
+    },
+    "profit": {
+      "netProfit": -10400,
+      "profitMargin": -3.063328424153166
+    },
+    "failureReasons": [
+      "Profit margin -3.06% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.352Z"
+}
+{
+  "address": "nesciunt quas odio",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 362500,
+      "adjustedArv": 351625
+    },
+    "costs": {
+      "purchasePrice": 290000,
+      "closingCosts": 5800,
+      "holdingCosts": 17400,
+      "rehabCosts": 50000,
+      "totalCosts": 363200
+    },
+    "profit": {
+      "netProfit": -11575,
+      "profitMargin": -3.291859225026662
+    },
+    "failureReasons": [
+      "Profit margin -3.29% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.353Z"
+}
+{
+  "address": "dolorem eum magni eos aperiam quia",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 375000,
+      "adjustedArv": 363750
+    },
+    "costs": {
+      "purchasePrice": 300000,
+      "closingCosts": 6000,
+      "holdingCosts": 18000,
+      "rehabCosts": 52500,
+      "totalCosts": 376500
+    },
+    "profit": {
+      "netProfit": -12750,
+      "profitMargin": -3.5051546391752577
+    },
+    "failureReasons": [
+      "Profit margin -3.51% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.355Z"
+}
+{
+  "address": "magnam facilis autem",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 387500,
+      "adjustedArv": 375875
+    },
+    "costs": {
+      "purchasePrice": 310000,
+      "closingCosts": 6200,
+      "holdingCosts": 18600,
+      "rehabCosts": 55000,
+      "totalCosts": 389800
+    },
+    "profit": {
+      "netProfit": -13925,
+      "profitMargin": -3.7046890588626535
+    },
+    "failureReasons": [
+      "Profit margin -3.70% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.356Z"
+}
+{
+  "address": "dolorem dolore est ipsam",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 400000,
+      "adjustedArv": 388000
+    },
+    "costs": {
+      "purchasePrice": 320000,
+      "closingCosts": 6400,
+      "holdingCosts": 19200,
+      "rehabCosts": 57500,
+      "totalCosts": 403100
+    },
+    "profit": {
+      "netProfit": -15100,
+      "profitMargin": -3.8917525773195876
+    },
+    "failureReasons": [
+      "Profit margin -3.89% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.357Z"
+}
+{
+  "address": "nesciunt iure omnis dolorem tempora et accusantium",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 412500,
+      "adjustedArv": 400125
+    },
+    "costs": {
+      "purchasePrice": 330000,
+      "closingCosts": 6600,
+      "holdingCosts": 19800,
+      "rehabCosts": 60000,
+      "totalCosts": 416400
+    },
+    "profit": {
+      "netProfit": -16275,
+      "profitMargin": -4.0674789128397375
+    },
+    "failureReasons": [
+      "Profit margin -4.07% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.358Z"
+}
+{
+  "address": "optio molestias id quia eum",
+  "underwriting": {
+    "status": "FAIL",
+    "arv": {
+      "baseArv": 425000,
+      "adjustedArv": 412250
+    },
+    "costs": {
+      "purchasePrice": 340000,
+      "closingCosts": 6800,
+      "holdingCosts": 20400,
+      "rehabCosts": 62500,
+      "totalCosts": 429700
+    },
+    "profit": {
+      "netProfit": -17450,
+      "profitMargin": -4.232868405093996
+    },
+    "failureReasons": [
+      "Profit margin -4.23% below 10% threshold"
+    ]
+  },
+  "evaluatedAt": "2026-01-12T18:40:00.359Z"
+}

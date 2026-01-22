@@ -1,0 +1,20 @@
+{
+  "completedAt": "2026-01-13T17:00:00.056Z",
+  "fetch": {
+    "total": 2
+  },
+  "normalization": {
+    "total": 2,
+    "successRate": "100.00%"
+  },
+  "evaluation": {
+    "total": 2,
+    "successRate": "100.00%",
+    "breakdown": [
+      {
+        "status": "FAIL",
+        "count": 2
+      }
+    ]
+  }
+}
