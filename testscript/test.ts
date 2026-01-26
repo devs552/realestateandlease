@@ -27,7 +27,7 @@ let passEmailPayload: any[] = []
 
 export async function run() {
   // ✅ Initialize logger INSIDE run() - captures all iterations
-  const logger = new SimpleLogger("/log.txt")
+  // const logger = new SimpleLogger("/log.txt")
 
   console.log("\n" + "=".repeat(80))
   console.log("🚀 PIPELINE STARTED:", new Date().toISOString())
@@ -314,5 +314,5 @@ export async function run() {
   console.log("\n✅ PIPELINE COMPLETED - Log file saved to: logs/log.txt")
 
   // ✅ Finalize logger (restore original console)
-  logger.restore()
+  // logger.restore()
 }
