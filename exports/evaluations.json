@@ -13,12 +13,12 @@
         "purchasePrice": 499000,
         "closingCosts": 9980,
         "holdingCosts": 14970,
-        "rehabCost": 126385,
-        "totalCosts": 650335
+        "rehabCost": 153580,
+        "totalCosts": 677530
       },
       "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:36.408Z"
+    "evaluatedAt": "2026-01-26T19:35:55.251Z"
   },
   {
     "externalId": "39110506",
@@ -26,25 +26,41 @@
     "underwriting": {
       "status": "FAIL",
       "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
         "Near commercial properties - possible nuisances",
-        "Lacks freeway access - may impact commute times"
+        "No garage - limits parking/storage options"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.440Z"
+    "evaluatedAt": "2026-01-26T19:35:55.263Z"
   },
   {
     "externalId": "38670957",
     "address": "198 W Northfield Rd",
     "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "Near commercial properties - possible nuisances",
-        "Lacks freeway access - may impact commute times"
+      "status": "PASS",
+      "arv": {
+        "baseArv": 998750,
+        "finalArv": 948812,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 998750,
+            "arvAfter": 948812
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 799000,
+        "closingCosts": 15980,
+        "holdingCosts": 23970,
+        "rehabCost": 125125,
+        "totalCosts": 964075
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.471Z"
+    "evaluatedAt": "2026-01-26T19:35:55.274Z"
   },
   {
     "externalId": "29817784",
@@ -53,10 +69,12 @@
       "status": "FAIL",
       "failureReasons": [
         "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
+        "No garage - limits parking/storage options",
         "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.498Z"
+    "evaluatedAt": "2026-01-26T19:35:55.290Z"
   },
   {
     "externalId": "38917410",
@@ -65,58 +83,31 @@
       "status": "PASS",
       "arv": {
         "baseArv": 686250,
-        "finalArv": 672525,
-        "adjustmentSteps": [
-          {
-            "factor": "Lacks freeway access - may impact commute times",
-            "percentApplied": "2.0%",
-            "arvBefore": 686250,
-            "arvAfter": 672525
-          }
-        ]
+        "finalArv": 686250,
+        "adjustmentSteps": []
       },
       "costs": {
         "purchasePrice": 549000,
         "closingCosts": 10980,
         "holdingCosts": 16470,
-        "rehabCost": 83790,
-        "totalCosts": 660240
+        "rehabCost": 106610,
+        "totalCosts": 683060
       },
-      "negativeFactors": [
-        "Lacks freeway access - may impact commute times"
-      ]
+      "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:36.526Z"
+    "evaluatedAt": "2026-01-26T19:35:55.303Z"
   },
   {
     "externalId": "38724914",
     "address": "252 Duane St",
     "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 406250,
-        "finalArv": 390000,
-        "adjustmentSteps": [
-          {
-            "factor": "Near commercial properties - possible nuisances",
-            "percentApplied": "4.0%",
-            "arvBefore": 406250,
-            "arvAfter": 390000
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 325000,
-        "closingCosts": 6500,
-        "holdingCosts": 9750,
-        "rehabCost": 84175,
-        "totalCosts": 425425
-      },
-      "negativeFactors": [
-        "Near commercial properties - possible nuisances"
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "No garage - limits parking/storage options"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.558Z"
+    "evaluatedAt": "2026-01-26T19:35:55.318Z"
   },
   {
     "externalId": "459930676",
@@ -124,11 +115,12 @@
     "underwriting": {
       "status": "FAIL",
       "failureReasons": [
+        "Near commercial properties - possible nuisances",
         "Multifamily properties nearby - may affect desirability",
         "No garage - limits parking/storage options"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.594Z"
+    "evaluatedAt": "2026-01-26T19:35:55.333Z"
   },
   {
     "externalId": "31209374",
@@ -136,11 +128,13 @@
     "underwriting": {
       "status": "FAIL",
       "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
         "No garage - limits parking/storage options",
         "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.628Z"
+    "evaluatedAt": "2026-01-26T19:35:55.350Z"
   },
   {
     "externalId": "40073878",
@@ -153,7 +147,7 @@
         "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.664Z"
+    "evaluatedAt": "2026-01-26T19:35:55.364Z"
   },
   {
     "externalId": "459817653",
@@ -162,10 +156,11 @@
       "status": "FAIL",
       "failureReasons": [
         "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options"
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.710Z"
+    "evaluatedAt": "2026-01-26T19:35:55.378Z"
   },
   {
     "externalId": "459910535",
@@ -173,11 +168,14 @@
     "underwriting": {
       "status": "FAIL",
       "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
         "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options"
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.750Z"
+    "evaluatedAt": "2026-01-26T19:35:55.392Z"
   },
   {
     "externalId": "39439026",
@@ -193,24 +191,42 @@
         "purchasePrice": 1199000,
         "closingCosts": 23980,
         "holdingCosts": 35970,
-        "rehabCost": 83895,
-        "totalCosts": 1342845
+        "rehabCost": 77875,
+        "totalCosts": 1336825
       },
       "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:36.793Z"
+    "evaluatedAt": "2026-01-26T19:35:55.408Z"
   },
   {
     "externalId": "31291263",
     "address": "169 N 6th Street",
     "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "Lacks freeway access - may impact commute times"
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1225000,
+        "finalArv": 1176000,
+        "adjustmentSteps": [
+          {
+            "factor": "Near commercial properties - possible nuisances",
+            "percentApplied": "4.0%",
+            "arvBefore": 1225000,
+            "arvAfter": 1176000
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 980000,
+        "closingCosts": 19600,
+        "holdingCosts": 29400,
+        "rehabCost": 75635,
+        "totalCosts": 1104635
+      },
+      "negativeFactors": [
+        "Near commercial properties - possible nuisances"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.840Z"
+    "evaluatedAt": "2026-01-26T19:35:55.426Z"
   },
   {
     "externalId": "39798854",
@@ -219,13 +235,13 @@
       "status": "PASS",
       "arv": {
         "baseArv": 1360000,
-        "finalArv": 1305600,
+        "finalArv": 1292000,
         "adjustmentSteps": [
           {
-            "factor": "Near commercial properties - possible nuisances",
-            "percentApplied": "4.0%",
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
             "arvBefore": 1360000,
-            "arvAfter": 1305600
+            "arvAfter": 1292000
           }
         ]
       },
@@ -233,26 +249,35 @@
         "purchasePrice": 1088000,
         "closingCosts": 21760,
         "holdingCosts": 32640,
-        "rehabCost": 83790,
-        "totalCosts": 1226190
+        "rehabCost": 94255,
+        "totalCosts": 1236655
       },
       "negativeFactors": [
-        "Near commercial properties - possible nuisances"
+        "Located on a busy road - potential noise/traffic issues"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.885Z"
+    "evaluatedAt": "2026-01-26T19:35:55.445Z"
   },
   {
     "externalId": "33081849",
     "address": "414 Pelham Manor Road",
     "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "No garage - limits parking/storage options"
-      ]
+      "status": "PASS",
+      "arv": {
+        "baseArv": 2456250,
+        "finalArv": 2456250,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 1965000,
+        "closingCosts": 39300,
+        "holdingCosts": 58950,
+        "rehabCost": 73955,
+        "totalCosts": 2137205
+      },
+      "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:36.940Z"
+    "evaluatedAt": "2026-01-26T19:35:55.465Z"
   },
   {
     "externalId": "459873095",
@@ -260,395 +285,47 @@
     "underwriting": {
       "status": "FAIL",
       "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
         "Near commercial properties - possible nuisances",
         "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options",
-        "Lacks freeway access - may impact commute times"
+        "No garage - limits parking/storage options"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:36.989Z"
+    "evaluatedAt": "2026-01-26T19:35:55.485Z"
   },
   {
     "externalId": "39984393",
     "address": "409 S Union Ave",
     "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "Near commercial properties - possible nuisances",
-        "No garage - limits parking/storage options",
+      "status": "PASS",
+      "arv": {
+        "baseArv": 906250,
+        "finalArv": 888125,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 906250,
+            "arvAfter": 888125
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 725000,
+        "closingCosts": 14500,
+        "holdingCosts": 21750,
+        "rehabCost": 146545,
+        "totalCosts": 907795
+      },
+      "negativeFactors": [
         "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:37.045Z"
+    "evaluatedAt": "2026-01-26T19:35:55.503Z"
   },
   {
     "externalId": "39877059",
     "address": "24 Conerly Rd",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 748750,
-        "finalArv": 733775,
-        "adjustmentSteps": [
-          {
-            "factor": "Lacks freeway access - may impact commute times",
-            "percentApplied": "2.0%",
-            "arvBefore": 748750,
-            "arvAfter": 733775
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 599000,
-        "closingCosts": 11980,
-        "holdingCosts": 17970,
-        "rehabCost": 84000,
-        "totalCosts": 712950
-      },
-      "negativeFactors": [
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.104Z"
-  },
-  {
-    "externalId": "31311301",
-    "address": "149 Harding Street",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 2123750,
-        "finalArv": 2017562,
-        "adjustmentSteps": [
-          {
-            "factor": "Located on a busy road - potential noise/traffic issues",
-            "percentApplied": "5.0%",
-            "arvBefore": 2123750,
-            "arvAfter": 2017562
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 1699000,
-        "closingCosts": 33980,
-        "holdingCosts": 50970,
-        "rehabCost": 83930,
-        "totalCosts": 1867880
-      },
-      "negativeFactors": [
-        "Located on a busy road - potential noise/traffic issues"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.170Z"
-  },
-  {
-    "externalId": "30588012",
-    "address": "514 9th St #3",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Near commercial properties - possible nuisances",
-        "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.242Z"
-  },
-  {
-    "externalId": "2056278762",
-    "address": "58 Saint Nicholas Ave",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 374875,
-        "finalArv": 363629,
-        "adjustmentSteps": [
-          {
-            "factor": "Multifamily properties nearby - may affect desirability",
-            "percentApplied": "3.0%",
-            "arvBefore": 374875,
-            "arvAfter": 363629
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 299900,
-        "closingCosts": 5998,
-        "holdingCosts": 8997,
-        "rehabCost": 83860,
-        "totalCosts": 398755
-      },
-      "negativeFactors": [
-        "Multifamily properties nearby - may affect desirability"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.311Z"
-  },
-  {
-    "externalId": "59550869",
-    "address": "306 Southdown Road",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 2868750,
-        "finalArv": 2811375,
-        "adjustmentSteps": [
-          {
-            "factor": "Lacks freeway access - may impact commute times",
-            "percentApplied": "2.0%",
-            "arvBefore": 2868750,
-            "arvAfter": 2811375
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 2295000,
-        "closingCosts": 45900,
-        "holdingCosts": 68850,
-        "rehabCost": 84035,
-        "totalCosts": 2493785
-      },
-      "negativeFactors": [
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.391Z"
-  },
-  {
-    "externalId": "39050362",
-    "address": "14 Fountain St",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "No garage - limits parking/storage options"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.474Z"
-  },
-  {
-    "externalId": "53381704",
-    "address": "2434 Martin Avenue",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 249875,
-        "finalArv": 244877,
-        "adjustmentSteps": [
-          {
-            "factor": "No garage - limits parking/storage options",
-            "percentApplied": "2.0%",
-            "arvBefore": 249875,
-            "arvAfter": 244877
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 199900,
-        "closingCosts": 3998,
-        "holdingCosts": 5997,
-        "rehabCost": 83825,
-        "totalCosts": 293720
-      },
-      "negativeFactors": [
-        "No garage - limits parking/storage options"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.554Z"
-  },
-  {
-    "externalId": "31072874",
-    "address": "54 Summit Drive",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "Near commercial properties - possible nuisances",
-        "No garage - limits parking/storage options",
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.642Z"
-  },
-  {
-    "externalId": "449319167",
-    "address": "111 W 57th St Unit Quadplex 80",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "High DOM (120+ days) - stale listing",
-        "Near commercial properties - possible nuisances",
-        "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.722Z"
-  },
-  {
-    "externalId": "2106743595",
-    "address": "357 Varick St APT 123B",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options",
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.807Z"
-  },
-  {
-    "externalId": "37873799",
-    "address": "94 W Madison Ave",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 837499,
-        "finalArv": 837499,
-        "adjustmentSteps": []
-      },
-      "costs": {
-        "purchasePrice": 669999,
-        "closingCosts": 13400,
-        "holdingCosts": 20100,
-        "rehabCost": 83825,
-        "totalCosts": 787324
-      },
-      "negativeFactors": []
-    },
-    "evaluatedAt": "2026-01-26T19:06:37.905Z"
-  },
-  {
-    "externalId": "457665465",
-    "address": "215-15 23 Avenue #TH",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Near commercial properties - possible nuisances",
-        "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.011Z"
-  },
-  {
-    "externalId": "30696332",
-    "address": "220 77th St",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "High DOM (120+ days) - stale listing",
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.112Z"
-  },
-  {
-    "externalId": "31366031",
-    "address": "6 Elliott Place",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 868750,
-        "finalArv": 868750,
-        "adjustmentSteps": []
-      },
-      "costs": {
-        "purchasePrice": 695000,
-        "closingCosts": 13900,
-        "holdingCosts": 20850,
-        "rehabCost": 83685,
-        "totalCosts": 813435
-      },
-      "negativeFactors": []
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.202Z"
-  },
-  {
-    "externalId": "31138483",
-    "address": "53 Beaumont Drive",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Located on a busy road - potential noise/traffic issues",
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.314Z"
-  },
-  {
-    "externalId": "2078013134",
-    "address": "551 E 12th St #3",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Near commercial properties - possible nuisances",
-        "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options",
-        "Lacks freeway access - may impact commute times"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.418Z"
-  },
-  {
-    "externalId": "38883924",
-    "address": "456 9th St APT 19",
-    "underwriting": {
-      "status": "FAIL",
-      "failureReasons": [
-        "Multifamily properties nearby - may affect desirability",
-        "No garage - limits parking/storage options"
-      ]
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.520Z"
-  },
-  {
-    "externalId": "449673011",
-    "address": "529 Clifton Ave",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 662499,
-        "finalArv": 662499,
-        "adjustmentSteps": []
-      },
-      "costs": {
-        "purchasePrice": 529999,
-        "closingCosts": 10600,
-        "holdingCosts": 15900,
-        "rehabCost": 84035,
-        "totalCosts": 640534
-      },
-      "negativeFactors": []
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.620Z"
-  },
-  {
-    "externalId": "459524538",
-    "address": "154-27 20th Rd #X",
-    "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 978610,
-        "finalArv": 978610,
-        "adjustmentSteps": []
-      },
-      "costs": {
-        "purchasePrice": 782888,
-        "closingCosts": 15658,
-        "holdingCosts": 23487,
-        "rehabCost": 83790,
-        "totalCosts": 905823
-      },
-      "negativeFactors": []
-    },
-    "evaluatedAt": "2026-01-26T19:06:38.729Z"
-  },
-  {
-    "externalId": "31322609",
-    "address": "2340 Devon Street",
     "underwriting": {
       "status": "PASS",
       "arv": {
@@ -660,37 +337,283 @@
         "purchasePrice": 599000,
         "closingCosts": 11980,
         "holdingCosts": 17970,
-        "rehabCost": 83720,
-        "totalCosts": 712670
+        "rehabCost": 135800,
+        "totalCosts": 764750
       },
       "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:38.857Z"
+    "evaluatedAt": "2026-01-26T19:35:55.522Z"
   },
   {
-    "externalId": "32373708",
-    "address": "53 Darnell Ln",
+    "externalId": "31311301",
+    "address": "149 Harding Street",
     "underwriting": {
       "status": "PASS",
       "arv": {
-        "baseArv": 906250,
-        "finalArv": 906250,
+        "baseArv": 2123750,
+        "finalArv": 2038800,
+        "adjustmentSteps": [
+          {
+            "factor": "Near commercial properties - possible nuisances",
+            "percentApplied": "4.0%",
+            "arvBefore": 2123750,
+            "arvAfter": 2038800
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 1699000,
+        "closingCosts": 33980,
+        "holdingCosts": 50970,
+        "rehabCost": 155680,
+        "totalCosts": 1939630
+      },
+      "negativeFactors": [
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.541Z"
+  },
+  {
+    "externalId": "30588012",
+    "address": "514 9th St #3",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.564Z"
+  },
+  {
+    "externalId": "2056278762",
+    "address": "58 Saint Nicholas Ave",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Multifamily properties nearby - may affect desirability",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.586Z"
+  },
+  {
+    "externalId": "59550869",
+    "address": "306 Southdown Road",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 2868750,
+        "finalArv": 2868750,
         "adjustmentSteps": []
       },
       "costs": {
-        "purchasePrice": 725000,
-        "closingCosts": 14500,
-        "holdingCosts": 21750,
-        "rehabCost": 83580,
-        "totalCosts": 844830
+        "purchasePrice": 2295000,
+        "closingCosts": 45900,
+        "holdingCosts": 68850,
+        "rehabCost": 64820,
+        "totalCosts": 2474570
       },
       "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:38.979Z"
+    "evaluatedAt": "2026-01-26T19:35:55.612Z"
   },
   {
-    "externalId": "458182526",
-    "address": "155-27 89th Street #27",
+    "externalId": "39050362",
+    "address": "14 Fountain St",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 624999,
+        "finalArv": 624999,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 499999,
+        "closingCosts": 10000,
+        "holdingCosts": 15000,
+        "rehabCost": 146825,
+        "totalCosts": 671824
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.635Z"
+  },
+  {
+    "externalId": "53381704",
+    "address": "2434 Martin Avenue",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 249875,
+        "finalArv": 244877,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 249875,
+            "arvAfter": 244877
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 199900,
+        "closingCosts": 3998,
+        "holdingCosts": 5997,
+        "rehabCost": 94220,
+        "totalCosts": 304115
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.660Z"
+  },
+  {
+    "externalId": "31072874",
+    "address": "54 Summit Drive",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1562500,
+        "finalArv": 1562500,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 1250000,
+        "closingCosts": 25000,
+        "holdingCosts": 37500,
+        "rehabCost": 106610,
+        "totalCosts": 1419110
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.692Z"
+  },
+  {
+    "externalId": "449319167",
+    "address": "111 W 57th St Unit Quadplex 80",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "High DOM (120+ days) - stale listing",
+        "Located on a busy road - potential noise/traffic issues",
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.731Z"
+  },
+  {
+    "externalId": "2106743595",
+    "address": "357 Varick St APT 123B",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.758Z"
+  },
+  {
+    "externalId": "37873799",
+    "address": "94 W Madison Ave",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.781Z"
+  },
+  {
+    "externalId": "457665465",
+    "address": "215-15 23 Avenue #TH",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.809Z"
+  },
+  {
+    "externalId": "30696332",
+    "address": "220 77th St",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 31250000,
+        "finalArv": 30312500,
+        "adjustmentSteps": [
+          {
+            "factor": "High DOM (120+ days) - stale listing",
+            "percentApplied": "3.0%",
+            "arvBefore": 31250000,
+            "arvAfter": 30312500
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 25000000,
+        "closingCosts": 500000,
+        "holdingCosts": 750000,
+        "rehabCost": 69510,
+        "totalCosts": 26319510
+      },
+      "negativeFactors": [
+        "High DOM (120+ days) - stale listing"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.838Z"
+  },
+  {
+    "externalId": "31366031",
+    "address": "6 Elliott Place",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.866Z"
+  },
+  {
+    "externalId": "31138483",
+    "address": "53 Beaumont Drive",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 998750,
+        "finalArv": 998750,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 799000,
+        "closingCosts": 15980,
+        "holdingCosts": 23970,
+        "rehabCost": 126245,
+        "totalCosts": 965195
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.893Z"
+  },
+  {
+    "externalId": "2078013134",
+    "address": "551 E 12th St #3",
     "underwriting": {
       "status": "FAIL",
       "failureReasons": [
@@ -698,37 +621,111 @@
         "No garage - limits parking/storage options"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:39.100Z"
+    "evaluatedAt": "2026-01-26T19:35:55.924Z"
+  },
+  {
+    "externalId": "38883924",
+    "address": "456 9th St APT 19",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.955Z"
+  },
+  {
+    "externalId": "449673011",
+    "address": "529 Clifton Ave",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 662499,
+        "finalArv": 649249,
+        "adjustmentSteps": [
+          {
+            "factor": "No garage - limits parking/storage options",
+            "percentApplied": "2.0%",
+            "arvBefore": 662499,
+            "arvAfter": 649249
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 529999,
+        "closingCosts": 10600,
+        "holdingCosts": 15900,
+        "rehabCost": 92435,
+        "totalCosts": 648934
+      },
+      "negativeFactors": [
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:55.984Z"
+  },
+  {
+    "externalId": "459524538",
+    "address": "154-27 20th Rd #X",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:56.019Z"
+  },
+  {
+    "externalId": "31322609",
+    "address": "2340 Devon Street",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:56.052Z"
+  },
+  {
+    "externalId": "32373708",
+    "address": "53 Darnell Ln",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:56.086Z"
+  },
+  {
+    "externalId": "458182526",
+    "address": "155-27 89th Street #27",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-01-26T19:35:56.117Z"
   },
   {
     "externalId": "31144250",
     "address": "26 Roseanne Drive",
     "underwriting": {
-      "status": "PASS",
-      "arv": {
-        "baseArv": 1561250,
-        "finalArv": 1483187,
-        "adjustmentSteps": [
-          {
-            "factor": "Located on a busy road - potential noise/traffic issues",
-            "percentApplied": "5.0%",
-            "arvBefore": 1561250,
-            "arvAfter": 1483187
-          }
-        ]
-      },
-      "costs": {
-        "purchasePrice": 1249000,
-        "closingCosts": 24980,
-        "holdingCosts": 37470,
-        "rehabCost": 83545,
-        "totalCosts": 1394995
-      },
-      "negativeFactors": [
-        "Located on a busy road - potential noise/traffic issues"
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
       ]
     },
-    "evaluatedAt": "2026-01-26T19:06:39.212Z"
+    "evaluatedAt": "2026-01-26T19:35:56.150Z"
   },
   {
     "externalId": "38667863",
@@ -744,11 +741,11 @@
         "purchasePrice": 799000,
         "closingCosts": 15980,
         "holdingCosts": 23970,
-        "rehabCost": 83860,
-        "totalCosts": 922810
+        "rehabCost": 77770,
+        "totalCosts": 916720
       },
       "negativeFactors": []
     },
-    "evaluatedAt": "2026-01-26T19:06:39.350Z"
+    "evaluatedAt": "2026-01-26T19:35:56.193Z"
   }
 ]

@@ -1,5 +1,4 @@
 import axios from "axios"
-import { sq } from "date-fns/locale"
 
 export type RawPublicListing = {
   externalId: string
@@ -24,8 +23,10 @@ export type RawPublicListing = {
 }
 
 /**
- * Fetch real Zillow listings from RapidAPI
- * Maps the actual API response to RawPublicListing format
+ * Fetch real Zillow listings from RapidAPI with Vercel compatibility
+ * - Proper timeout handling
+ * - No hanging requests
+ * - Error handling and fallback
  */
 export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
   console.log("📥 STEP 1: FETCHING DATA FROM PUBLIC SOURCE")
@@ -35,11 +36,12 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
   const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY
 
   if (!RAPIDAPI_KEY) {
-    throw new Error(
-      "RAPIDAPI_KEY environment variable not set.\n\n" +
-      "Set your API key:\n" +
-      "export RAPIDAPI_KEY=your_key_here\n"
+    console.error(
+      "❌ RAPIDAPI_KEY environment variable not set.\n" +
+      "Set your API key in Vercel Dashboard:\n" +
+      "Settings → Environment Variables → Add RAPIDAPI_KEY\n"
     )
+    return [] // Return empty array instead of throwing
   }
 
   try {
@@ -57,8 +59,10 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
       headers: {
         "x-rapidapi-key": RAPIDAPI_KEY,
         "x-rapidapi-host": "real-estate101.p.rapidapi.com",
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       },
-      timeout: 30000,
+      timeout: 25000, // ✅ 25 seconds (Vercel free tier: 10s, pro: 60s)
     }
 
     console.log("📤 Sending request to real-estate101 API...\n")
@@ -70,7 +74,8 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
     const apiResults = response.data?.results || []
 
     if (!apiResults || apiResults.length === 0) {
-      throw new Error("No listings found in API response")
+      console.warn("⚠️  No listings found in API response")
+      return []
     }
 
     console.log(`📊 Received ${apiResults.length} listings from API\n`)
@@ -126,17 +131,17 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
           const isCondo = homeType === "CONDO"
           const isMultiFamily = homeType === "MULTI_FAMILY"
 
-          // Generate realistic additional fields based on home type and data
+          // ✅ FIXED: Generate realistic additional fields
           const listing: RawPublicListing = {
             externalId: item.id || `ZILLOW_${Date.now()}_${idx}`,
             address: streetAddress,
             city: city,
             state: state,
-            zip:   idx <= 5 ? zip.toString().replace(/[^\d]/g, "").substring(0, 5) :"75001",
+            zip: (zip.toString().replace(/[^\d]/g, "").substring(0, 5) || "75001"),
             price: Math.round(price),
             beds: Math.round(beds),
             baths: Math.round(baths * 10) / 10,
-             sqft: idx >=1 ?  Math.round(2397 + Math.floor(Math.random() * 10 - 5) + Math.floor(Math.random() * 10 - 5) * (0.9 + Math.random() * 0.2)) : Math.round(2000 + Math.random() * 2000),
+            sqft: Math.round(1800 + Math.random() * 3000), // ✅ Simplified random
             dom: dom,
             status: status,
             updatedAt: new Date().toISOString(),
@@ -146,12 +151,12 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
             multifamily_nearby: isCondo || isMultiFamily,
             has_garage: !isCondo ? Math.random() > 0.3 : false,
             has_freeway_access: Math.random() > 0.4,
-            soldDate: idx>=1 ? new Date(
-          Date.now() - (90 + Math.random() * 90) * 24 * 60 * 60 * 1000
-        )
-          .toISOString()
-          .split("T")[0] : new Date(Date.now() - Math.random() * 15552000000).toISOString().split("T")[0], // Random sold date within last 6 months
-    yearBuilt: idx >=5 ? 2005 + Math.floor(Math.random() * 10 - 5) : 2000 + Math.floor(Math.random() * 30), // Year built between 1990-2020 ,
+            soldDate: new Date(
+              Date.now() - Math.random() * 15552000000
+            )
+              .toISOString()
+              .split("T")[0], // ✅ Simplified
+            yearBuilt: 2000 + Math.floor(Math.random() * 25), // ✅ Simplified
           }
 
           return listing
@@ -163,7 +168,8 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
       .filter((listing: RawPublicListing | null) => listing !== null)
 
     if (listings.length === 0) {
-      throw new Error("No valid listings after parsing")
+      console.warn("⚠️  No valid listings after parsing")
+      return []
     }
 
     console.log(`✅ Parsed ${listings.length} real Zillow listings\n`)
@@ -172,28 +178,48 @@ export async function fetchFromPublicSource(): Promise<RawPublicListing[]> {
     if (listings.length > 0) {
       const sample = listings[0]
       console.log("📍 Sample listing:")
-      console.log(`   ${sample.address}, ${sample.city}, ${sample.state} ${sample.zip}`)
+      console.log(
+        `   ${sample.address}, ${sample.city}, ${sample.state} ${sample.zip}`
+      )
       console.log(`   Price: $${sample.price.toLocaleString()}`)
-      console.log(`   ${sample.beds} beds, ${sample.baths} baths, ${sample.sqft.toLocaleString()} sqft`)
+      console.log(
+        `   ${sample.beds} beds, ${sample.baths} baths, ${sample.sqft.toLocaleString()} sqft`
+      )
       console.log(`   Status: ${sample.status}`)
       console.log(`   Days on Zillow: ${sample.dom}\n`)
     }
 
     return listings
   } catch (error: any) {
-    console.error(`\n❌ Error: ${error.message}\n`)
+    // ✅ PROPER ERROR HANDLING FOR VERCEL
+    console.error(`\n❌ API Error\n`)
 
-    if (error.message.includes("401") || error.message.includes("403")) {
-      console.error("API Key Error:")
-      console.error("- Check your RAPIDAPI_KEY is correct")
-      console.error("- Make sure you're subscribed to real-estate101 API")
-    } else if (error.message.includes("429")) {
-      console.error("Rate limit exceeded. Wait a minute and try again.")
-    } else if (error.message.includes("ENOTFOUND")) {
-      console.error("Network error. Check your internet connection.")
+    // Check error type
+    if (error.code === "ECONNABORTED") {
+      console.error("⚠️  Request timeout - API took too long to respond")
+      console.error("   Suggestions:")
+      console.error("   • Check if API server is running")
+      console.error("   • Try increasing timeout if on Pro plan")
+      console.error("   • Check your internet connection\n")
+    } else if (error.response?.status === 401 || error.response?.status === 403) {
+      console.error("⚠️  Authentication Error")
+      console.error("   • Check your RAPIDAPI_KEY is correct")
+      console.error("   • Make sure API key is set in Vercel Dashboard")
+      console.error("   • Verify you're subscribed to real-estate101 API\n")
+    } else if (error.response?.status === 429) {
+      console.error("⚠️  Rate limit exceeded")
+      console.error("   • Wait a few minutes before retrying")
+      console.error("   • Consider upgrading your RapidAPI plan\n")
+    } else if (error.code === "ENOTFOUND") {
+      console.error("⚠️  Network Error")
+      console.error("   • Check your internet connection")
+      console.error("   • Verify API endpoint is correct\n")
+    } else {
+      console.error(`   Message: ${error.message}\n`)
     }
 
-    throw error
+    // ✅ RETURN EMPTY INSTEAD OF THROWING (Vercel-friendly)
+    return []
   }
 }
 
