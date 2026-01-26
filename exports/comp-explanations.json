@@ -5,8 +5,8 @@
     "comparables": []
   },
   {
-    "subjectId": "38917410",
-    "subjectAddress": "627 Ocean Ave",
+    "subjectId": "39110506",
+    "subjectAddress": "84 Goodwin Dr",
     "comparables": []
   },
   {
@@ -15,31 +15,47 @@
     "comparables": []
   },
   {
-    "subjectId": "39798854",
-    "subjectAddress": "47 Chicopee Dr",
-    "comparables": []
-  },
-  {
-    "subjectId": "39110506",
-    "subjectAddress": "84 Goodwin Dr",
-    "comparables": []
-  },
-  {
     "subjectId": "29817784",
     "subjectAddress": "1917 Haight Avenue",
     "comparables": []
   },
   {
-    "subjectId": "40073878",
-    "subjectAddress": "1779 Oak Hill Dr",
+    "subjectId": "38917410",
+    "subjectAddress": "627 Ocean Ave",
     "comparables": []
   },
   {
-    "subjectId": "39877059",
-    "subjectAddress": "24 Conerly Rd",
+    "subjectId": "38724914",
+    "subjectAddress": "252 Duane St",
+    "comparables": []
+  },
+  {
+    "subjectId": "459930676",
+    "subjectAddress": "785 E 160th Street #2B",
+    "comparables": []
+  },
+  {
+    "subjectId": "31209374",
+    "subjectAddress": "218 Woodlawn Road",
     "comparables": [
       {
-        "compId": "40073878",
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "40073878",
+    "subjectAddress": "1779 Oak Hill Dr",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
         "included": true,
         "reasons": []
       }
@@ -50,59 +66,17 @@
     "subjectAddress": "749 Saint Anns Avenue #50D",
     "comparables": [
       {
-        "compId": "40073878",
+        "compId": "459930676",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
+        "compId": "31209374",
         "included": true,
         "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "38724914",
-    "subjectAddress": "252 Duane St",
-    "comparables": [
+      },
       {
         "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "38667863",
-    "subjectAddress": "34 W Lawn Rd",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
         "included": true,
         "reasons": []
       }
@@ -113,27 +87,22 @@
     "subjectAddress": "591 Jersey Ave #5A",
     "comparables": [
       {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       }
@@ -144,27 +113,22 @@
     "subjectAddress": "4 Delbarton Dr",
     "comparables": [
       {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -176,31 +140,26 @@
     ]
   },
   {
-    "subjectId": "38883924",
-    "subjectAddress": "456 9th St APT 19",
+    "subjectId": "31291263",
+    "subjectAddress": "169 N 6th Street",
     "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
       {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -217,31 +176,26 @@
     ]
   },
   {
-    "subjectId": "325530718",
-    "subjectAddress": "1425 Hudson St APT 7E",
+    "subjectId": "39798854",
+    "subjectAddress": "47 Chicopee Dr",
     "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
       {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -256,58 +210,7 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "31311301",
-    "subjectAddress": "149 Harding Street",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       }
@@ -318,357 +221,22 @@
     "subjectAddress": "414 Pelham Manor Road",
     "comparables": [
       {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "39050362",
-    "subjectAddress": "14 Fountain St",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "459930676",
-    "subjectAddress": "785 E 160th Street #2B",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "59550869",
-    "subjectAddress": "306 Southdown Road",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "31130897",
-    "subjectAddress": "35 Main Parkway",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459930676",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "59550869",
+        "compId": "31209374",
         "included": true,
         "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "459876652",
-    "subjectAddress": "39 Cedarwood Ter.",
-    "comparables": [
+      },
       {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -683,1707 +251,12 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "459872217",
-    "subjectAddress": "24 Clinton Ave #B",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "32966217",
-    "subjectAddress": "32 Lambert Lane",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "31102876",
-    "subjectAddress": "36 Brian Street",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "39918857",
-    "subjectAddress": "122 Old Stirling Rd",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "457665465",
-    "subjectAddress": "215-15 23 Avenue #TH",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "39440516",
-    "subjectAddress": "70 Noe Ave",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "459872218",
-    "subjectAddress": "24 Clinton Ave #A",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "39091572",
-    "subjectAddress": "2 Goodwill Pl",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "2056674994",
-    "subjectAddress": "118 Lawn Terrace Terrace #1E",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "459929006",
-    "subjectAddress": "30 Reynolds Ave",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "450876172",
-    "subjectAddress": "805 E 182nd Street #4E",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "2068952873",
-    "subjectAddress": "217 W 57th St #127/128",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
-        "included": false,
-        "reasons": [
-          "DOM exceeds 120 days"
-        ]
-      }
-    ]
-  },
-  {
-    "subjectId": "39799293",
-    "subjectAddress": "275 Linden Rd",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
-        "included": false,
-        "reasons": [
-          "DOM exceeds 120 days"
-        ]
-      },
-      {
-        "compId": "2068952873",
-        "included": true,
-        "reasons": []
-      }
-    ]
-  },
-  {
-    "subjectId": "31209374",
-    "subjectAddress": "218 Woodlawn Road",
-    "comparables": [
-      {
-        "compId": "40073878",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459910535",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39439026",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38883924",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
-        "included": false,
-        "reasons": [
-          "DOM exceeds 120 days"
-        ]
-      },
-      {
-        "compId": "2068952873",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39799293",
+        "compId": "39798854",
         "included": true,
         "reasons": []
       }
@@ -2394,27 +267,22 @@
     "subjectAddress": "1853 Central Park Avenue #16A",
     "comparables": [
       {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -2429,150 +297,43 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
+        "compId": "39798854",
         "included": true,
         "reasons": []
       },
       {
         "compId": "33081849",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39050362",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
-        "included": false,
-        "reasons": [
-          "DOM exceeds 120 days"
-        ]
-      },
-      {
-        "compId": "2068952873",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39799293",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31209374",
         "included": true,
         "reasons": []
       }
     ]
   },
   {
-    "subjectId": "458226934",
-    "subjectAddress": "4 4th Ave Unit 2B",
+    "subjectId": "39984393",
+    "subjectAddress": "409 S Union Ave",
     "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
       {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -2587,17 +348,12 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
+        "compId": "39798854",
         "included": true,
         "reasons": []
       },
@@ -2607,94 +363,18 @@
         "reasons": []
       },
       {
-        "compId": "39050362",
+        "compId": "459873095",
         "included": true,
         "reasons": []
-      },
+      }
+    ]
+  },
+  {
+    "subjectId": "39877059",
+    "subjectAddress": "24 Conerly Rd",
+    "comparables": [
       {
         "compId": "459930676",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "59550869",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31130897",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459876652",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "32966217",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "457665465",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
-        "included": false,
-        "reasons": [
-          "DOM exceeds 120 days"
-        ]
-      },
-      {
-        "compId": "2068952873",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39799293",
         "included": true,
         "reasons": []
       },
@@ -2704,7 +384,2357 @@
         "reasons": []
       },
       {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
         "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "31311301",
+    "subjectAddress": "149 Harding Street",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "30588012",
+    "subjectAddress": "514 9th St #3",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "2056278762",
+    "subjectAddress": "58 Saint Nicholas Ave",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "59550869",
+    "subjectAddress": "306 Southdown Road",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "39050362",
+    "subjectAddress": "14 Fountain St",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "53381704",
+    "subjectAddress": "2434 Martin Avenue",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "31072874",
+    "subjectAddress": "54 Summit Drive",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "449319167",
+    "subjectAddress": "111 W 57th St Unit Quadplex 80",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "2106743595",
+    "subjectAddress": "357 Varick St APT 123B",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "37873799",
+    "subjectAddress": "94 W Madison Ave",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "457665465",
+    "subjectAddress": "215-15 23 Avenue #TH",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "30696332",
+    "subjectAddress": "220 77th St",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "31366031",
+    "subjectAddress": "6 Elliott Place",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "31138483",
+    "subjectAddress": "53 Beaumont Drive",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "2078013134",
+    "subjectAddress": "551 E 12th St #3",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31138483",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "38883924",
+    "subjectAddress": "456 9th St APT 19",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31138483",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2078013134",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "449673011",
+    "subjectAddress": "529 Clifton Ave",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31138483",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2078013134",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "38883924",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "459524538",
+    "subjectAddress": "154-27 20th Rd #X",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31138483",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2078013134",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "38883924",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449673011",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "31322609",
+    "subjectAddress": "2340 Devon Street",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31138483",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2078013134",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "38883924",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449673011",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459524538",
+        "included": true,
+        "reasons": []
+      }
+    ]
+  },
+  {
+    "subjectId": "32373708",
+    "subjectAddress": "53 Darnell Ln",
+    "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "40073878",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459817653",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459910535",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39439026",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31291263",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39798854",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "33081849",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459873095",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "59550869",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39050362",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "53381704",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31072874",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "37873799",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "457665465",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30696332",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "31366031",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31138483",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2078013134",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "38883924",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "449673011",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459524538",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31322609",
         "included": true,
         "reasons": []
       }
@@ -2715,27 +2745,22 @@
     "subjectAddress": "155-27 89th Street #27",
     "comparables": [
       {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
+      {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -2750,17 +2775,12 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
+        "compId": "39798854",
         "included": true,
         "reasons": []
       },
@@ -2770,12 +2790,32 @@
         "reasons": []
       },
       {
-        "compId": "39050362",
+        "compId": "459873095",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459930676",
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
         "included": true,
         "reasons": []
       },
@@ -2785,32 +2825,34 @@
         "reasons": []
       },
       {
-        "compId": "31130897",
+        "compId": "39050362",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459876652",
+        "compId": "53381704",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459872217",
+        "compId": "31072874",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "32966217",
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
+        "compId": "37873799",
         "included": true,
         "reasons": []
       },
@@ -2820,90 +2862,75 @@
         "reasons": []
       },
       {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
+        "compId": "30696332",
         "included": false,
         "reasons": [
           "DOM exceeds 120 days"
         ]
       },
       {
-        "compId": "2068952873",
+        "compId": "31366031",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39799293",
+        "compId": "31138483",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "31209374",
+        "compId": "2078013134",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459873095",
+        "compId": "38883924",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "458226934",
+        "compId": "449673011",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459524538",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31322609",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "32373708",
         "included": true,
         "reasons": []
       }
     ]
   },
   {
-    "subjectId": "39492891",
-    "subjectAddress": "52 Union St",
+    "subjectId": "31144250",
+    "subjectAddress": "26 Roseanne Drive",
     "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
       {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -2918,17 +2945,12 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
+        "compId": "39798854",
         "included": true,
         "reasons": []
       },
@@ -2938,12 +2960,32 @@
         "reasons": []
       },
       {
-        "compId": "39050362",
+        "compId": "459873095",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459930676",
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
         "included": true,
         "reasons": []
       },
@@ -2953,32 +2995,34 @@
         "reasons": []
       },
       {
-        "compId": "31130897",
+        "compId": "39050362",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459876652",
+        "compId": "53381704",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459872217",
+        "compId": "31072874",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "32966217",
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
+        "compId": "37873799",
         "included": true,
         "reasons": []
       },
@@ -2988,59 +3032,49 @@
         "reasons": []
       },
       {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
+        "compId": "30696332",
         "included": false,
         "reasons": [
           "DOM exceeds 120 days"
         ]
       },
       {
-        "compId": "2068952873",
+        "compId": "31366031",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39799293",
+        "compId": "31138483",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "31209374",
+        "compId": "2078013134",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459873095",
+        "compId": "38883924",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "458226934",
+        "compId": "449673011",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459524538",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31322609",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "32373708",
         "included": true,
         "reasons": []
       },
@@ -3052,31 +3086,26 @@
     ]
   },
   {
-    "subjectId": "52635913",
-    "subjectAddress": "346-348 Elmwood Ave",
+    "subjectId": "38667863",
+    "subjectAddress": "34 W Lawn Rd",
     "comparables": [
+      {
+        "compId": "459930676",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31209374",
+        "included": true,
+        "reasons": []
+      },
       {
         "compId": "40073878",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39877059",
-        "included": true,
-        "reasons": []
-      },
-      {
         "compId": "459817653",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38724914",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "38667863",
         "included": true,
         "reasons": []
       },
@@ -3091,17 +3120,12 @@
         "reasons": []
       },
       {
-        "compId": "38883924",
+        "compId": "31291263",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "325530718",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "31311301",
+        "compId": "39798854",
         "included": true,
         "reasons": []
       },
@@ -3111,12 +3135,32 @@
         "reasons": []
       },
       {
-        "compId": "39050362",
+        "compId": "459873095",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459930676",
+        "compId": "39984393",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "39877059",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31311301",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "30588012",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "2056278762",
         "included": true,
         "reasons": []
       },
@@ -3126,32 +3170,34 @@
         "reasons": []
       },
       {
-        "compId": "31130897",
+        "compId": "39050362",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459876652",
+        "compId": "53381704",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459872217",
+        "compId": "31072874",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "32966217",
+        "compId": "449319167",
+        "included": false,
+        "reasons": [
+          "DOM exceeds 120 days"
+        ]
+      },
+      {
+        "compId": "2106743595",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "31102876",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39918857",
+        "compId": "37873799",
         "included": true,
         "reasons": []
       },
@@ -3161,59 +3207,49 @@
         "reasons": []
       },
       {
-        "compId": "39440516",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459872218",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "39091572",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "2056674994",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "459929006",
-        "included": true,
-        "reasons": []
-      },
-      {
-        "compId": "450876172",
+        "compId": "30696332",
         "included": false,
         "reasons": [
           "DOM exceeds 120 days"
         ]
       },
       {
-        "compId": "2068952873",
+        "compId": "31366031",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "39799293",
+        "compId": "31138483",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "31209374",
+        "compId": "2078013134",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "459873095",
+        "compId": "38883924",
         "included": true,
         "reasons": []
       },
       {
-        "compId": "458226934",
+        "compId": "449673011",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "459524538",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "31322609",
+        "included": true,
+        "reasons": []
+      },
+      {
+        "compId": "32373708",
         "included": true,
         "reasons": []
       },
@@ -3223,7 +3259,7 @@
         "reasons": []
       },
       {
-        "compId": "39492891",
+        "compId": "31144250",
         "included": true,
         "reasons": []
       }
