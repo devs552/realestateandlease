@@ -1,0 +1,57 @@
+{
+  "pipelineRunAt": "2026-03-06T22:03:28.885Z",
+  "steps": {
+    "step1_ingestion": {
+      "name": "Real Public-Source Ingestion (Non-Simulated)",
+      "source": "Realtor.com (Dallas–Fort Worth)",
+      "fetched": 41,
+      "status": "✅ Complete"
+    },
+    "step2_normalization": {
+      "name": "Normalization & DOM/Status Tracking",
+      "normalized": 41,
+      "normalizeRate": "100.00%",
+      "status": "✅ Complete"
+    },
+    "step3_neighborhood": {
+      "name": "Neighborhood Boundary Enforcement (COMP Selection)",
+      "propertiesEvaluated": 41,
+      "status": "✅ Complete"
+    },
+    "step4_compExplainability": {
+      "name": "COMP Rule Explainability (JSON Export)",
+      "exportFile": "comp-explanations.json",
+      "status": "✅ Complete"
+    },
+    "step5_negativeAdjustments": {
+      "name": "Negative Adjustments & Automatic Rejection",
+      "evaluated": 41,
+      "status": "✅ Complete"
+    },
+    "step6_export": {
+      "name": "Data Export & Storage",
+      "files": [
+        "raw-payload.json",
+        "normalized-listings.json",
+        "evaluations.json",
+        "comp-explanations.json",
+        "pipeline-summary.json"
+      ],
+      "status": "✅ Complete"
+    }
+  },
+  "results": {
+    "totalEvaluated": 41,
+    "statusBreakdown": [
+      {
+        "status": "PASS",
+        "count": 25
+      },
+      {
+        "status": "FAIL",
+        "count": 16
+      }
+    ],
+    "passRate": "60.98%"
+  }
+}

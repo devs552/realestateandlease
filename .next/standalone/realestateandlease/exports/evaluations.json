@@ -1,0 +1,945 @@
+[
+  {
+    "externalId": "59889986",
+    "address": "4 Sage Street",
+    "city": "Holmdel",
+    "state": "NJ",
+    "zip": "07733",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 2312500,
+        "finalArv": 2196875,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 2312500,
+            "arvAfter": 2196875
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 1850000,
+        "closingCosts": 37000,
+        "holdingCosts": 55500,
+        "rehabCost": 154700,
+        "totalCosts": 2097200
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:26.805Z"
+  },
+  {
+    "externalId": "460663064",
+    "address": "154-24 27th Avenue",
+    "city": "Flushing",
+    "state": "NY",
+    "zip": "11354",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 2687500,
+        "finalArv": 2687500,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 2150000,
+        "closingCosts": 43000,
+        "holdingCosts": 64500,
+        "rehabCost": 161595,
+        "totalCosts": 2419095
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:26.876Z"
+  },
+  {
+    "externalId": "39986903",
+    "address": "17 Cherokee Rd",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:26.913Z"
+  },
+  {
+    "externalId": "37921231",
+    "address": "127 Central Ave",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:26.935Z"
+  },
+  {
+    "externalId": "32347130",
+    "address": "406 Armstrong Ave",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10308",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1374875,
+        "finalArv": 1347377,
+        "adjustmentSteps": [
+          {
+            "factor": "No garage - limits parking/storage options",
+            "percentApplied": "2.0%",
+            "arvBefore": 1374875,
+            "arvAfter": 1347377
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 1099900,
+        "closingCosts": 21998,
+        "holdingCosts": 32997,
+        "rehabCost": 166775,
+        "totalCosts": 1321670
+      },
+      "negativeFactors": [
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:26.958Z"
+  },
+  {
+    "externalId": "38678432",
+    "address": "1 SLOPE DRIVE",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:26.993Z"
+  },
+  {
+    "externalId": "31135708",
+    "address": "8 Sagamore Way S",
+    "city": "Jericho",
+    "state": "NY",
+    "zip": "11753",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1562500,
+        "finalArv": 1562500,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 1250000,
+        "closingCosts": 25000,
+        "holdingCosts": 37500,
+        "rehabCost": 133665,
+        "totalCosts": 1446165
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.023Z"
+  },
+  {
+    "externalId": "39445545",
+    "address": "18 Valhalla Rd",
+    "city": "Montville",
+    "state": "NJ",
+    "zip": "07045",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1473750,
+        "finalArv": 1414800,
+        "adjustmentSteps": [
+          {
+            "factor": "Near commercial properties - possible nuisances",
+            "percentApplied": "4.0%",
+            "arvBefore": 1473750,
+            "arvAfter": 1414800
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 1179000,
+        "closingCosts": 23580,
+        "holdingCosts": 35370,
+        "rehabCost": 163660,
+        "totalCosts": 1401610
+      },
+      "negativeFactors": [
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.061Z"
+  },
+  {
+    "externalId": "31138550",
+    "address": "4 Newport Drive",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.105Z"
+  },
+  {
+    "externalId": "31145927",
+    "address": "261 Vista Drive",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.131Z"
+  },
+  {
+    "externalId": "64638254",
+    "address": "304 Blauvelt Ct",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.158Z"
+  },
+  {
+    "externalId": "40085142",
+    "address": "910 Highland Ave",
+    "city": "Westfield",
+    "state": "NJ",
+    "zip": "07090",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 3062500,
+        "finalArv": 3001250,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 3062500,
+            "arvAfter": 3001250
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 2450000,
+        "closingCosts": 49000,
+        "holdingCosts": 73500,
+        "rehabCost": 140280,
+        "totalCosts": 2712780
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.184Z"
+  },
+  {
+    "externalId": "31144748",
+    "address": "82 Vernon Avenue",
+    "city": "East Norwich",
+    "state": "NY",
+    "zip": "11732",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1123750,
+        "finalArv": 1067562,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 1123750,
+            "arvAfter": 1067562
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 899000,
+        "closingCosts": 17980,
+        "holdingCosts": 26970,
+        "rehabCost": 162820,
+        "totalCosts": 1106770
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.227Z"
+  },
+  {
+    "externalId": "31175773",
+    "address": "444 Carnation Avenue",
+    "city": "Floral Park",
+    "state": "NY",
+    "zip": "11001",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1123750,
+        "finalArv": 1101275,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 1123750,
+            "arvAfter": 1101275
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 899000,
+        "closingCosts": 17980,
+        "holdingCosts": 26970,
+        "rehabCost": 74760,
+        "totalCosts": 1018710
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.279Z"
+  },
+  {
+    "externalId": "39788022",
+    "address": "201 Newark Pompton Tpke",
+    "city": "Wayne",
+    "state": "NJ",
+    "zip": "07470",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1112499,
+        "finalArv": 1056874,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 1112499,
+            "arvAfter": 1056874
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 889999,
+        "closingCosts": 17800,
+        "holdingCosts": 26700,
+        "rehabCost": 81445,
+        "totalCosts": 1015944
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.331Z"
+  },
+  {
+    "externalId": "38682813",
+    "address": "11 Valley Pl",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Near commercial properties - possible nuisances",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.386Z"
+  },
+  {
+    "externalId": "37879429",
+    "address": "12 Mill St",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.421Z"
+  },
+  {
+    "externalId": "39410101",
+    "address": "12 OVERLOOK DRIVE",
+    "city": "Denville",
+    "state": "NJ",
+    "zip": "07834",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1093750,
+        "finalArv": 1071875,
+        "adjustmentSteps": [
+          {
+            "factor": "No garage - limits parking/storage options",
+            "percentApplied": "2.0%",
+            "arvBefore": 1093750,
+            "arvAfter": 1071875
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 875000,
+        "closingCosts": 17500,
+        "holdingCosts": 26250,
+        "rehabCost": 101360,
+        "totalCosts": 1020110
+      },
+      "negativeFactors": [
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.460Z"
+  },
+  {
+    "externalId": "32274908",
+    "address": "30 Tom Ct",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10310",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 731250,
+        "finalArv": 731250,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 585000,
+        "closingCosts": 11700,
+        "holdingCosts": 17550,
+        "rehabCost": 153825,
+        "totalCosts": 768075
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.514Z"
+  },
+  {
+    "externalId": "39471649",
+    "address": "25 Upper Rainbow Trl",
+    "city": "Denville",
+    "state": "NJ",
+    "zip": "07834",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 375000,
+        "finalArv": 356250,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 375000,
+            "arvAfter": 356250
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 300000,
+        "closingCosts": 6000,
+        "holdingCosts": 9000,
+        "rehabCost": 96880,
+        "totalCosts": 411880
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.571Z"
+  },
+  {
+    "externalId": "31199841",
+    "address": "43 MacDonald Street",
+    "city": "Hempstead",
+    "state": "NY",
+    "zip": "11550",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 812499,
+        "finalArv": 796249,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 812499,
+            "arvAfter": 796249
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 649999,
+        "closingCosts": 13000,
+        "holdingCosts": 19500,
+        "rehabCost": 157150,
+        "totalCosts": 839649
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.619Z"
+  },
+  {
+    "externalId": "33046970",
+    "address": "19 Oak Bluff Avenue",
+    "city": "Larchmont",
+    "state": "NY",
+    "zip": "10538",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 12493750,
+        "finalArv": 12493750,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 9995000,
+        "closingCosts": 199900,
+        "holdingCosts": 299850,
+        "rehabCost": 68775,
+        "totalCosts": 10563525
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.678Z"
+  },
+  {
+    "externalId": "38628975",
+    "address": "7 Pine St",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "No garage - limits parking/storage options",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.732Z"
+  },
+  {
+    "externalId": "37893056",
+    "address": "577 Floyd St",
+    "city": "Englewood Cliffs",
+    "state": "NJ",
+    "zip": "07632",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 5375000,
+        "finalArv": 5106250,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 5375000,
+            "arvAfter": 5106250
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 4300000,
+        "closingCosts": 86000,
+        "holdingCosts": 129000,
+        "rehabCost": 93765,
+        "totalCosts": 4608765
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.775Z"
+  },
+  {
+    "externalId": "460566853",
+    "address": "95 aka 89 Rossiter Avenue",
+    "city": "Yonkers",
+    "state": "NY",
+    "zip": "10701",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 736250,
+        "finalArv": 736250,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 589000,
+        "closingCosts": 11780,
+        "holdingCosts": 17670,
+        "rehabCost": 84420,
+        "totalCosts": 702870
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.831Z"
+  },
+  {
+    "externalId": "39787928",
+    "address": "108 Packanack Lake Rd",
+    "city": "Wayne",
+    "state": "NJ",
+    "zip": "07470",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 887375,
+        "finalArv": 851880,
+        "adjustmentSteps": [
+          {
+            "factor": "Near commercial properties - possible nuisances",
+            "percentApplied": "4.0%",
+            "arvBefore": 887375,
+            "arvAfter": 851880
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 709900,
+        "closingCosts": 14198,
+        "holdingCosts": 21297,
+        "rehabCost": 83685,
+        "totalCosts": 829080
+      },
+      "negativeFactors": [
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.888Z"
+  },
+  {
+    "externalId": "39066125",
+    "address": "88 Wooding Ave",
+    "city": "Edison",
+    "state": "NJ",
+    "zip": "08817",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 736250,
+        "finalArv": 736250,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 589000,
+        "closingCosts": 11780,
+        "holdingCosts": 17670,
+        "rehabCost": 136220,
+        "totalCosts": 754670
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:27.946Z"
+  },
+  {
+    "externalId": "244800502",
+    "address": "246 E 90th St APT 4D",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.015Z"
+  },
+  {
+    "externalId": "31157706",
+    "address": "1017 Friendly Road",
+    "city": "Upper Brookville",
+    "state": "NY",
+    "zip": "11771",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 3618750,
+        "finalArv": 3618750,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 2895000,
+        "closingCosts": 57900,
+        "holdingCosts": 86850,
+        "rehabCost": 85085,
+        "totalCosts": 3124835
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.069Z"
+  },
+  {
+    "externalId": "39438546",
+    "address": "58 Park Ave",
+    "city": "Madison",
+    "state": "NJ",
+    "zip": "07940",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1093750,
+        "finalArv": 1093750,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 875000,
+        "closingCosts": 17500,
+        "holdingCosts": 26250,
+        "rehabCost": 83860,
+        "totalCosts": 1002610
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.130Z"
+  },
+  {
+    "externalId": "39472234",
+    "address": "871 Tabor Rd",
+    "city": "Morris Plains",
+    "state": "NJ",
+    "zip": "07950",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 748750,
+        "finalArv": 733775,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 748750,
+            "arvAfter": 733775
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 599000,
+        "closingCosts": 11980,
+        "holdingCosts": 17970,
+        "rehabCost": 107135,
+        "totalCosts": 736085
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.189Z"
+  },
+  {
+    "externalId": "31390425",
+    "address": "25 Old Mill Road",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.252Z"
+  },
+  {
+    "externalId": "31242835",
+    "address": "488 Pershing Blvd",
+    "city": "Rockville Centre",
+    "state": "NY",
+    "zip": "11570",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 724999,
+        "finalArv": 695999,
+        "adjustmentSteps": [
+          {
+            "factor": "Near commercial properties - possible nuisances",
+            "percentApplied": "4.0%",
+            "arvBefore": 724999,
+            "arvAfter": 695999
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 579999,
+        "closingCosts": 11600,
+        "holdingCosts": 17400,
+        "rehabCost": 132335,
+        "totalCosts": 741334
+      },
+      "negativeFactors": [
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.305Z"
+  },
+  {
+    "externalId": "32991913",
+    "address": "1 Beverly Road",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.369Z"
+  },
+  {
+    "externalId": "39422284",
+    "address": "7 Manchester Dr",
+    "city": "Whippany",
+    "state": "NJ",
+    "zip": "07981",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 873750,
+        "finalArv": 830062,
+        "adjustmentSteps": [
+          {
+            "factor": "Located on a busy road - potential noise/traffic issues",
+            "percentApplied": "5.0%",
+            "arvBefore": 873750,
+            "arvAfter": 830062
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 699000,
+        "closingCosts": 13980,
+        "holdingCosts": 20970,
+        "rehabCost": 109270,
+        "totalCosts": 843220
+      },
+      "negativeFactors": [
+        "Located on a busy road - potential noise/traffic issues"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.432Z"
+  },
+  {
+    "externalId": "68301323",
+    "address": "36 Regency Pl",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.510Z"
+  },
+  {
+    "externalId": "2122158728",
+    "address": "824 Bronx River Road #3A",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.565Z"
+  },
+  {
+    "externalId": "31211152",
+    "address": "480 Hopatcong Avenue",
+    "city": "West Hempstead",
+    "state": "NY",
+    "zip": "11552",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 1123750,
+        "finalArv": 1101275,
+        "adjustmentSteps": [
+          {
+            "factor": "Lacks freeway access - may impact commute times",
+            "percentApplied": "2.0%",
+            "arvBefore": 1123750,
+            "arvAfter": 1101275
+          }
+        ]
+      },
+      "costs": {
+        "purchasePrice": 899000,
+        "closingCosts": 17980,
+        "holdingCosts": 26970,
+        "rehabCost": 156730,
+        "totalCosts": 1100680
+      },
+      "negativeFactors": [
+        "Lacks freeway access - may impact commute times"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.629Z"
+  },
+  {
+    "externalId": "38662508",
+    "address": "45 Rutgers St",
+    "city": "Irvington",
+    "state": "NJ",
+    "zip": "07111",
+    "underwriting": {
+      "status": "PASS",
+      "arv": {
+        "baseArv": 499999,
+        "finalArv": 499999,
+        "adjustmentSteps": []
+      },
+      "costs": {
+        "purchasePrice": 399999,
+        "closingCosts": 8000,
+        "holdingCosts": 12000,
+        "rehabCost": 73150,
+        "totalCosts": 493149
+      },
+      "negativeFactors": []
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.721Z"
+  },
+  {
+    "externalId": "460687206",
+    "address": "78 E 127th St #19A",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances",
+        "Multifamily properties nearby - may affect desirability",
+        "No garage - limits parking/storage options"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.799Z"
+  },
+  {
+    "externalId": "33014001",
+    "address": "85 Lakeview Avenue",
+    "underwriting": {
+      "status": "FAIL",
+      "failureReasons": [
+        "Located on a busy road - potential noise/traffic issues",
+        "Near commercial properties - possible nuisances"
+      ]
+    },
+    "evaluatedAt": "2026-03-06T22:03:28.873Z"
+  }
+]

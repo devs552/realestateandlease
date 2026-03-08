@@ -1,7 +1,10 @@
 {
   "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/execution/properties/[propertyId]/route": "app/api/execution/properties/[propertyId]/route.js",
   "/api/execution/properties/route": "app/api/execution/properties/route.js",
+  "/api/files/list/route": "app/api/files/list/route.js",
   "/dashboard/page": "app/dashboard/page.js",
+  "/execution/[propertyId]/page": "app/execution/[propertyId]/page.js",
   "/execution/page": "app/execution/page.js",
   "/login/page": "app/login/page.js",
   "/page": "app/page.js"

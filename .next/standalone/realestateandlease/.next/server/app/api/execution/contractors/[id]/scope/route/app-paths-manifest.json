@@ -1,0 +1,3 @@
+{
+  "/api/execution/contractors/[id]/scope/route": "app/api/execution/contractors/[id]/scope/route.js"
+}
