@@ -192,6 +192,12 @@ const DocumentSchema = new __TURBOPACK__imported__module__$5b$externals$5d2f$mon
         type: Map,
         of: String
     },
+    pdfUrl: {
+        type: String
+    },
+    pdfPath: {
+        type: String
+    },
     status: {
         type: String,
         default: "generated"

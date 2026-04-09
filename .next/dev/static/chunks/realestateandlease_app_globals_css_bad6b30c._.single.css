@@ -2022,10 +2022,6 @@
     border-color: var(--color-border);
   }
 
-  .border-\[\#4f46e5\] {
-    border-color: #4f46e5;
-  }
-
   .border-amber-200 {
     border-color: var(--color-amber-200);
   }
@@ -4225,12 +4221,6 @@
   }
 
   @media (hover: hover) {
-    .hover\:border-\[\#4338ca\]:hover {
-      border-color: #4338ca;
-    }
-  }
-
-  @media (hover: hover) {
     .hover\:border-blue-300:hover {
       border-color: var(--color-blue-300);
     }
@@ -4245,12 +4235,6 @@
   @media (hover: hover) {
     .hover\:border-gray-300:hover {
       border-color: var(--color-gray-300);
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:bg-\[\#4338ca\]:hover {
-      background-color: #4338ca;
     }
   }
 

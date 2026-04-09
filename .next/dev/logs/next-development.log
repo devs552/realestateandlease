@@ -1,77 +1,75 @@
-[00:00:12.433] Server  LOG      ✓ Ready in 7.8s
-[00:07:46.512] Server  LOG      ○ Compiling /_not-found/page ...
-[00:07:49.347] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:50.669] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:07:50.669] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/login","route":"/login"}
-[00:07:50.669] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775671339541} /_vercel/insights/view
-[00:08:06.879] Server  LOG     pass "$2b$10$UoV6lM/DD3fgx7e1eub6puvZxaALCCO7Btdqboc93mkc.VyVZS9l2"
-[00:08:06.880] Server  LOG     hashed password "$2b$10$yJY0UYS1D5eL953LiAwtGuJMXwX52hDUP0wGWYtUmHo3O0TlwIOxO"
-[00:08:08.681] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775671357197} /_vercel/insights/view
-[00:09:06.303] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775671415731} /_vercel/insights/view
-[00:35:01.326] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v6_1775164363853.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[00:35:01.331] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[00:35:01.336] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v5_1775162909393.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[00:40:38.162] Server  LOG      ✓ Compiled in 1098.8s
-[00:40:38.327] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:40:38.503] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:40:38.503] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/templates","route":"/templates"}
-[00:40:38.503] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775673307956} /_vercel/insights/view
-[00:40:46.780] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:07:02.934] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:07:35.084] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:08:46.199] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:08:48.684] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:08:55.258] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:09:02.773] Server  LOG      ✓ Compiled in 139.5s
-[02:09:02.979] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:09:03.170] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[02:09:03.170] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/templates","route":"/templates"}
-[02:09:03.170] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775678612626} /_vercel/insights/view
-[02:09:10.080] Server  ERROR   [convert-pdf] Error: Command failed: libreoffice --headless --convert-to pdf --outdir "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\pdfs" "D:\personal_workspace\realestateandlease\public\generated\698250b3eacd04e2ddcd61c4\New DOCX Document.docx_v7_1775165945143.docx"
-'libreoffice' is not recognized as an internal or external command,
-operable program or batch file.
-
-[02:13:00.651] Server  LOG      ✓ Compiled in 112s
-[02:36:51.885] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775680281324} /_vercel/insights/view
-[02:38:05.826] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775680355259} /_vercel/insights/view
-[02:42:52.425] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_jszip_lib_3cfaf561._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.432] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_bluebird_js_release_3b65dc97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.436] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_mammoth_lib_3ee5a0eb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.437] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\[root-of-the-server]__23369a25._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.455] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.468] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_next_ecd0abcd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.473] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.477] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.479] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.480] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.482] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.482] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[02:42:52.485] Server  ERROR   [convert-pdf] Error: Can't find end of central directory : is this a zip file ? If it is, see https://stuk.github.io/jszip/documentation/howto/read_zip.html
-[02:50:48.561] Server  LOG      ✓ Compiled in 2267.9s
+[00:00:03.745] Server  LOG      ✓ Ready in 2.8s
+[00:00:13.039] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:13.149] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:13.149] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/login","route":"/login"}
+[00:00:13.149] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775688950379} /_vercel/insights/view
+[00:00:25.646] Server  LOG     pass "$2b$10$7R0L4sCSk2KRbedJ3c0OS.4hc4rkCPHKkYQIjkUE2rKbe5IK7PTeC"
+[00:00:25.646] Server  LOG     hashed password "$2b$10$yJY0UYS1D5eL953LiAwtGuJMXwX52hDUP0wGWYtUmHo3O0TlwIOxO"
+[00:00:26.303] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775688963484} /_vercel/insights/view
+[00:00:30.460] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/profiles color: rgb(120, 120, 120) color: inherit {"dp":"/profiles","o":"http://localhost:3000/profiles","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775688967664} /_vercel/insights/view
+[00:00:34.450] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775688971649} /_vercel/insights/view
+[00:00:42.997] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_jszip_lib_3cfaf561._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.002] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_bluebird_js_release_3b65dc97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.006] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_mammoth_lib_3ee5a0eb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.007] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\[root-of-the-server]__23369a25._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.024] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.036] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_next_ecd0abcd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.056] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.058] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.059] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.059] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.060] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.061] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:43.065] Server  ERROR   [convert-pdf] Error: Can't find end of central directory : is this a zip file ? If it is, see https://stuk.github.io/jszip/documentation/howto/read_zip.html
+[00:02:53.103] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_jszip_lib_3cfaf561._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.104] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_bluebird_js_release_3b65dc97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.104] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_mammoth_lib_3ee5a0eb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.104] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\[root-of-the-server]__23369a25._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.105] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.106] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_next_ecd0abcd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.107] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.107] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.108] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.108] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.108] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.109] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:53.109] Server  ERROR   [convert-pdf] Error: Can't find end of central directory : is this a zip file ? If it is, see https://stuk.github.io/jszip/documentation/howto/read_zip.html
+[00:03:21.861] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_jszip_lib_3cfaf561._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.861] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_bluebird_js_release_3b65dc97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.862] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_mammoth_lib_3ee5a0eb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.862] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\[root-of-the-server]__23369a25._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.864] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.864] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_next_ecd0abcd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.864] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.865] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.865] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.866] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.866] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.866] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:21.867] Server  ERROR   [convert-pdf] Error: Can't find end of central directory : is this a zip file ? If it is, see https://stuk.github.io/jszip/documentation/howto/read_zip.html
+[00:03:23.745] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:23.895] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:23.895] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/templates","route":"/templates"}
+[00:03:23.895] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775689141120} /_vercel/insights/view
+[00:03:29.182] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_jszip_lib_3cfaf561._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.182] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_bluebird_js_release_3b65dc97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.183] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_mammoth_lib_3ee5a0eb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.183] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\[root-of-the-server]__23369a25._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.184] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.185] Server  ERROR   D:\personal_workspace\realestateandlease\.next\dev\server\chunks\8a434_next_ecd0abcd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.185] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.186] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.186] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.186] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.187] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.187] Server  ERROR   D:\personal_workspace\realestateandlease\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:03:29.188] Server  ERROR   [convert-pdf] Error: Can't find end of central directory : is this a zip file ? If it is, see https://stuk.github.io/jszip/documentation/howto/read_zip.html
+[00:05:13.399] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:13.543] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:05:13.543] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/templates","route":"/templates"}
+[00:05:13.543] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775689250765} /_vercel/insights/view
+[00:06:41.762] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:41.905] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:41.905] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/templates","route":"/templates"}
+[00:06:41.905] Browser LOG     %c[Vercel Web Analytics]%c [view] http://localhost:3000/templates color: rgb(120, 120, 120) color: inherit {"dp":"/templates","o":"http://localhost:3000/templates","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1775689339138} /_vercel/insights/view
+[00:49:37.386] Server  LOG     [generate] templatePath: "D:\\personal_workspace\\realestateandlease\\public\\uploads\\1775240813055-Flipping Master Solutions_B. FLIP_SCRIPTS_DOCS_-_INVESTOR_PROPOSAL.docx"
